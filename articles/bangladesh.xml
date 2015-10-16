@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Bangladesh</title>
+                <title type="short">Bangladesh</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The Bangladeshi Government passed archive legislation in 1983, but it did not lay
+                    down any rules for the management of current or post-independence records. As
+                    such, the Foreign Ministry documents remain with the Foreign Ministry.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Department of Archives and Libraries, Ministry of Cultural Affairs: 32, Justice
+                    S. M., Murshed Sarani, Agargaon, Sher-e-Bangla Nagar, Dhaka – 1207. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>For pre-independence research (1971), members of the public should contact the
+                    National Archives and National Library. For later material, researchers should
+                    contact the Foreign Ministry directly.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.nanl.gov.bd/">National Archives and National
+                        Library</ref>
+                </p>
+                <p>
+                    <ref target="http://www.mofa.gov.bd/">Foreign Ministry</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

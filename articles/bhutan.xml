@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Bhutan</title>
+                <title type="short">Bhutan</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>There is no legislation governing the access to diplomatic archives.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Ministry of Foreign Affairs: PO Box 103, Gyalyong Tshokhang, Thimphu, Bhutan</p>
+                <p>National Library and Archives of Bhutan: GPO PO Box 185, Kawangjangtsa, Thimphu, Bhutan.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers should contact the Ministry of Foreign Affairs directly to inquire
+                    about access to diplomatic records.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.mfa.gov.bt/">Ministry of Foreign Affairs</ref>
+                </p>
+                <p>
+                    <ref target="http://www.library.gov.bt/">National Library</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

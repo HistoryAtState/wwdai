@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Iceland</title>
+                <title type="short">Iceland</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The Information Act ensures that documents are automatically made available after
+                    a period of 30 years, but may be reviewed for availability by request before the
+                    30 year mark.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> The National Archives of Iceland, Laugavegur 162, IS-105 Reykjavík</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers may visit the Archives directly but contacting them in advance is
+                    recommended. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.archives.is/index.php?node=english">National Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

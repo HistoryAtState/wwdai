@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Argentina</title>
+                <title type="short">Argentina</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Argentina has several laws governing the right to access government information.
+                    However, it does not have a national law that covers diplomatic archives.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>National Archives: Leandro N. Alem 246, C1003AAP Buenos Aires.</p>
+                <p> Ministry of Foreign Affairs: Esmeralda 1212, C1007ABR, Buenos Aires. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers should write or visit the archive of the Ministry of Foreign Affairs
+                    to request access to diplomatic archives. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.mrecic.gov.ar/">Ministry of Foreign Affairs</ref>
+                </p>
+                <p>
+                    <ref target="http://www.mininterior.gov.ar/archivo/archivo.php/">National Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Saint Lucia</title>
+                <title type="short">Saint Lucia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>There is no systematic declassification of documents.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> Ministry of External Affairs: Conway Business Centre, Waterfront, Castries,
+                    Saint Lucia.</p>
+                <p> St Lucia National Archives: PO Box 3060, Clarke St, Vigie, Castries, St Lucia.
+                </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers should write to both the Ministry of External Affairs and the
+                    National Archives to inquire about their holdings. Note that older documents may
+                    still reside in the UK National Archives.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://stlucia.gov.lc/agencies/ministry_of_external_affairs.htm">Ministry of External Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

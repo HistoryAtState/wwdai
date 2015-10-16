@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Australia</title>
+                <title type="short">Australia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The public may apply for access to any Commonwealth records that are more than 30
+                    years old. If a member of the public requires access to a Commonwealth record
+                    more than 30 years old that is not in a National Archives repository, the
+                    Archives, in cooperation with the Australian Government agency with custody of
+                    the record, will facilitate the provision of access to that record. Under the
+                    Freedom of Information Act, public researchers may apply for special access to
+                    records that are younger than 30 years old on the basis that they are preparing
+                    a major work of national significance for publication.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>The National Archives has offices in Canberra, Darwin and the State Capitals.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers may visit any of the locations of the National Archives, but they
+                    are advised to write to the Archives staff ahead of time to ensure a timely
+                    start to their inquiries. E-mail addresses and phone numbers are found on the
+                    website.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.naa.gov.au">National Archives</ref>
+                </p>
+            </div>
+            <div type="section" xml:id="Publications">
+                <head>Published Documents</head>
+                <p>The Department of Foreign Affairs and Trade also has a Historical Documents
+                    Project Section which produces the series, Documents on Australian Foreign
+                    Policy.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

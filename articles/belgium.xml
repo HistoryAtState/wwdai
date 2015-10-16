@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Belgium</title>
+                <title type="short">Belgium</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>A Ministerial Decree of 12 December 2003 set public access to documents after
+                    they are 30 years old. Requests to see files between 30 and 50 years old must be
+                    approved by a Diplomatic Committee.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Federal Public Service Foreign Affairs, Foreign Trade and Development
+                    Cooperation, Archives Directorate, Diplomatic and African archives Rue de
+                    Petits Carmes, 15, B-1000 Brussels</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>Researchers are advised to contact the Archives ahead of time as many requests
+                    require third party approval.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://diplomatie.belgium.be/en/documentation/">Information on Diplomatic Archives</ref>
+                </p>
+            </div>
+            <div type="section" xml:id="Publications">
+                <head>Published Documents</head>
+                <p>The Royal Academy of Belgium has periodically published volumes of documents
+                    relating to Belgian Foreign Policy.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

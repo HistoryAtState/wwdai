@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Cuba</title>
+                <title type="short">Cuba</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p> There is legislation that provides for the National Archives and the transfer of
+                    documents, but there is no legislation that governs access or freedom of
+                    information. In general, much pre-1959 documentation is available and
+                    post-revolution records are not. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> National Archives: Calle Compostela, No. 906, esq. San Isidro, Habana Viejo,
+                    Ciudad de La Habana. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>Foreign researchers must obtain a letter from a sponsoring Cuban institution as
+                    well as a special visa for researchers. For researchers wishing to consult
+                    pre-1959 documents, contact the National Archives. For post-1959 records,
+                    researchers may try to contact the Ministry of Foreign Affairs. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://america.cubaminrex.cu/index.htm">Ministry of Foreign Affairs</ref>
+                </p>
+                <p>
+                    <ref target="http://www.arnac.cu/">National Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

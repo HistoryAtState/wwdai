@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Togo</title>
+                <title type="short">Togo</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p> The Ministry of Foreign Affairs has no systematic way to dealing with requests
+                    for files, and requests are sent from the Ministry of Information to the
+                    individual offices concerned. The Government of Togo does not receive many
+                    requests for access to diplomatic archives, so there has been little pressing
+                    need to organize a system. Requests are considered on a case by case basis
+                    depending on the sensitivity of the issue and the time period involved.
+                    Diplomatic archives for the colonial period are available at the National
+                    Library. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>National Library: Bibliotheque Nationale, Avenue de la Victoire, PO Box 1OO2,
+                    Lome.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> For pre-independence inquiries, researchers should contact the National Library.
+                    For post-independence requests, researchers must write to the Ministry of
+                    Foreign Affairs. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.republicoftogo.com/">Government of Togo</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

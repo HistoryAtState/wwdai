@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Egypt</title>
+                <title type="short">Egypt</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>National Archives and National Library (Dar al-Kutub): Corniche El-Nil, Ramlat
+                    Boulaq, Cairo, ZIP Code: 11638, PO Box: N° 8 - Sabttiya</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>Foreign researchers may need to gain an affiliation with an Egypt-based academic
+                    affiliation that can help with the security clearance required for access to the
+                    National Archives. Researchers should contact the Archives well in advance of
+                    their visit. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

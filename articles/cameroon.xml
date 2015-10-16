@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Cameroon</title>
+                <title type="short">Cameroon</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p> Archives are subject to different time periods of declassification, with some
+                    records made available after 25 years and others after 50 years. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>National Archives, B.P. 1053, Yaoundé.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>Researchers are advised to write the National Archives and the Ministry of
+                    Foreign Affairs to inquire as to the availability of diplomatic records.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.spm.gov.cm/">Government of Cameroon and Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

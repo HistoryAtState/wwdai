@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Brunei Darussalam</title>
+                <title type="short">Brunei Darussalam</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Access to public records is governed by the National Archives Act of
+                    1975, revised in 1983.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>National Archives: Main Office, National Archives Building, Jalan Menteri Besar
+                    BB 3910, Brunei, Brunei (Negara Darussalam), BB 3910</p>
+                <p>Ministry of Foreign Affairs and Trade: Jalan Subok, Bandar Seri Begawan, BD 2710,
+                    Brunei Darussalam.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>Researchers should contact the National Archives for post-independence documents
+                    and the British National Archives for pre-independence records. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.museums.gov.bn/">Museum and National Archives</ref>
+                </p>
+                <p>
+                    <ref target="http://www.mfa.gov.bn/">Ministry of Foreign Affairs and Trade</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

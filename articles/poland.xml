@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Poland</title>
+                <title type="short">Poland</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p> There are two important laws governing access to National Archives. The 1983 Act
+                    on National Archives and the 1999 Act on the Protection of Classified
+                    Information. Documents are generally made accessible to the public after 30
+                    years, though this does not apply to documents marked as secret. The Foreign
+                    Minister may give permission to view documents that are under 30 years old as
+                    long as they are not marked as secret. Secret material may be declassified after
+                    50 years. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> Ministry of Foreign Affairs Archives, 67 Taneczna St., 02-829 Warsaw Phone: 00
+                    48 22 523 93 80 </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Both foreign and Polish researchers who are interested in documents from the
+                    period since 1945 should contact the Ministry of Foreign Affairs Archives with
+                    their project and requests. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.msz.gov.pl/Main,page,2.html">Ministry of Foreign Affairs Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

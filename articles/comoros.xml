@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Comoros</title>
+                <title type="short">Comoros</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>There is no official legislation governing access to diplomatic archives.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>Researchers should contact the Permanent Mission to the United Nations or the
+                    nearest Embassy of Comoros to inquire as to the feasibility of access to
+                    diplomatic records. Pre-independence records may also be found in French
+                    diplomatic archives.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.un.int/wcm/content/site/comoros">Permanent Mission to the United Nations</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

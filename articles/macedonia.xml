@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Macedonia</title>
+                <title type="short">Macedonia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Legislation stipulates that public records come available after 20 years.
+                    However, diplomatic records may remain classified for 75 years. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Ministry of Foreign Affairs: "Dame Gruev" St. No. 6, 1 000 Skopje.</p>
+                <p>State Archives: Grigor Prilchev No. 3, 1000 Skopje. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>Researchers should contact the State Archives to inquire about access to
+                    relevant diplomatic records. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.mfa.gov.mk/default.aspx?ItemID=282">Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Bosnia Herzegovina</title>
+                <title type="short">Bosnia Herzegovina</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The Federation of Bosnia and Herzegovina has a Freedom of Access to Information
+                    Act that went into effect in 2002. Researchers must apply in writing to the
+                    creating agency and there is a right of appeal if the request is rejected.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> Ministry of Foreign Affairs: Musala St. 2, 71000 Sarajevo.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers should write to the Ministry of Foreign Affairs to inquire about
+                    access to diplomatic records.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.mfa.gov.ba/">Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

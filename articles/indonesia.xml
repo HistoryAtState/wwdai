@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Indonesia</title>
+                <title type="short">Indonesia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p> Indonesia has an Archives Act that provides for the preservation of records but
+                    there are no rules governing a systematic declassification of documents.
+                    Material prior to Indonesian Independence can be found at the National Archives.
+                </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> National Archives: Jl. Ampera Raya No. 7 Jakarta 12560</p>
+                <p> Department of Foreign Affairs: Jalan Pejambon No. 6, Jakarta Pusat 10110 </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>Researchers should contact both the National Archives and the Department of
+                    Foreign Affairs to ascertain the feasibility of viewing relevant documents. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.anri.go.id/web/index.php?m=frontpage&amp;s=0">National Archives</ref>
+                </p>
+                <p>
+                    <ref target="http://www.deplu.go.id/?">Department of Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

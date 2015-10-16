@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Chile</title>
+                <title type="short">Chile</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Access to diplomatic archives is governed by the Administrative Directive for
+                    Documentation of 1983. Unclassified documents are available for public
+                    consultation 20 years after origination. Classified documents (Confidential and
+                    Secret) are declassified 30 years after origination. Documents that are considered
+                    of permanent interest of the Foreign Ministry are retained and not declassified.
+                    Chile passed a freedom of information law in the summer of 2008.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Archive of the Ministry of Foreign Affairs: Bandera 52 entrepiso (between
+                    Plaza/Ground Floor level and 1st Floor), Santiago, Chile. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> The Archive of the Ministry of Foreign Affairs houses the greater part of the
+                    Chilean Government’s diplomatic records and treaties, as well as diplomatic
+                    lists (Chilean ambassadors and consuls overseas; foreign ambassadors and consuls
+                    in Chile), a photographic collection, a map/credentials/other materials
+                    collection, and several collections of the papers of former Chilean diplomats.
+                    Researchers (Chilean and foreign) must bring a letter from their supporting
+                    institution (academic or professional) or their advising professor stating the
+                    reason, subject, and time period of their research. For foreign researchers, a
+                    letter from their embassy or consulate stating the same information will be
+                    accepted. Researchers are also asked to provide the Archive with a copy of their
+                    finished work. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.minrel.gov.cl/prontus_minrel/site/edic/base/port/home.php">Archive of the Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

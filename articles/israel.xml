@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Israel</title>
+                <title type="short">Israel</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The Archives Law (1955) regulates the Israeli State Archives, which is part of
+                    the Prime Minister's Office. Documents of the Israeli Ministry of Foreign
+                    Affairs are transferred to the Israel State Archives and are closed for 25
+                    years. After declassification they are open to the public.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>For visits to the Israel State Archives: 35 Makor Hayim Street, Jerusalem,
+                    Israel.</p>
+                <p>Mailing address: Israel State Archives, Prime Minister's Office, Qiryat
+                    Ben-Gurion, Jerusalem 91950, Israel.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>Researchers should either call +972 2 568 0662, fax +972 2 568 0670 or e-mail
+                        <ref target="mailto:research@archives.gov.il">research@archives.gov.il</ref>
+                    before arriving. There are finding aids, most of which are computerized. There
+                    is no fee.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.archives.gov.il/ArchiveGov_eng">State Archives</ref>
+                </p>
+            </div>
+            <div type="section" xml:id="Published_Documents">
+                <head>Published Documents</head>
+                <p>The State Documents and Commemoration Department of the Israel State Archives
+                    publishes the <ref
+                        target="http://www.archives.gov.il/ArchiveGov_Eng/Publications/Documents/"
+                        >"Documents on the Foreign Policy of Israel"</ref> series.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

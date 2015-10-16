@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Ethiopia</title>
+                <title type="short">Ethiopia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>There is no legislation governing access to Diplomatic records. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Ministry of Foreign Affairs Archives Department Menelik II Ave. Addis Ababa
+                    (across from the Hilton) </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>Diplomatic records are stored in the Archives Department of the Ministry of
+                    Foreign Affairs. Researchers must provide a research proposal and a letter of
+                    introduction to the Ministry, and must wait for approval from the relevant desk
+                    officer.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.mfa.gov.et/">Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Belarus</title>
+                <title type="short">Belarus</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>A 2002 Presidential Decree set up the Committee for Archives and Records
+                    Management, but does not legislate a right to access.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Ministry of Foreign Affairs: 19 Lenin St., Minsk 220030, Republic of Belarus</p>
+                <p>National Archives: 10 Kollektornaya St., Minsk 220004, Republic of Belarus</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers should send an official letter of application to the Ministry of
+                    Foreign Affairs and the National Archives. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.mfa.gov.by/en/">Ministry of Foreign Affairs</ref>
+                </p>
+                <p>
+                    <ref target="http://archives.gov.by/eng/">National Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

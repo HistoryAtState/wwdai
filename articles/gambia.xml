@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Gambia</title>
+                <title type="short">Gambia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Access is restricted for 25 years after creation.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>National Records Service, Personnel Management Office, The Quadrangle, Banjul.
+                    External and Foreign Affairs Department, 4, Marina Parade, Banjul </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>Researchers should contact the National Records Service to ascertain the
+                    availability of relevant documents.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.gambia.gm">Government of Gambia</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

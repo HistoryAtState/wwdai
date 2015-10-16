@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Uruguay</title>
+                <title type="short">Uruguay</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The Foreign Ministry of Uruguay has an archive of diplomatic history. Documents
+                    are open to the public after a period of 30 years with exceptions for national
+                    security, the integrity of Uruguayan foreign policy and the safety of an
+                    individual. Appeals to view material produced within the last 30 years should be
+                    directed to the Foreign Ministry.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> The Archive of Diplomatic History of the Ministry of Foreign Affairs is located
+                    in Montevideo at the Palacio Santos. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers should contact the Ministry of Foreign Affairs directly.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.mrree.gub.uy/gxpsites/hgxpp001">Ministry of Foreign Affairs</ref>
+                </p>
+                <p>
+                    <ref target="http://www.bibna.gub.uy/">National Library</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

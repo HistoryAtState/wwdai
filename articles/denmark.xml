@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Denmark</title>
+                <title type="short">Denmark</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The Danish Ministry of Foreign Affairs, along with all other government
+                    departments and agencies turns its documents over to the State Archives before
+                    the material is 30 years old. Requests to view documents within the last 30
+                    years may apply to see them under the Access to Public Administration Files Act.
+                </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> The Danish National Archives are located in Copenhagen at Rigsdagsgaarden 9,
+                    DK-1218 Copenhagen K.</p>
+                <p> Ministry of Foreign Affairs of Denmark, 2, Asiatisk Plads, DK-1448 Copenhagen K
+                </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers are advised to contact the Archives prior to their visit. Most of
+                    the records of recent date, i.e. after 1848, are kept at remote storage in
+                    Glostrup. Retrieval time from remote storage is 2 weekdays. Contact information
+                    is available on the website. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.sa.dk/">National Archives</ref>
+                </p>
+                <p>
+                    <ref target="http://www.um.dk/da">Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

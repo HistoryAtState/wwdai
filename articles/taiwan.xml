@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Taiwan</title>
+                <title type="short">Taiwan</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The Archives Act of 1999 stipulates that government documents shall be made
+                    available at the National Archives after 30 years, unless they fall under one of
+                    the exceptions to the rule. This is decided by the creating agency. This law can
+                    also be applied to documents held at several other locations.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> There are two main locations in Taiwan that house documents from the Foreign
+                    Ministry and other foreign relations documents: </p>
+                <p> National Archives: No. 10, Lane 59, Yitong St., Zhongshan District, Taipei City
+                    10486, Taiwan. Holdings: Documents on foreign relations in collections from the
+                    National Assembly and other government bureaus. </p>
+                <p>Academia Historica: 406 Beiyi Road Section 2, Xindian, Taipei County, Taiwan.
+                    Holdings: Foreign Ministry Archives, Chiang Kai-shek Papers, and other documents
+                    on foreign relations.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>Researchers must fill out an application for access to the National Archives,
+                    which can be found on the Archives website. For access to the Academia
+                    Historica, you need to register at the front gate; bring a passport and a letter
+                    of introduction from your home institution or one in Taiwan.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.archives.gov.tw/english/">National Archives</ref>
+                </p>
+                <p>
+                    <ref target="http://www.drnh.gov.tw/www/index.aspx">Academia Historica</ref> (Chinese site)
+                </p>
+            </div>
+            <div type="section" xml:id="Publications">
+                <head>Published Documents</head>
+                <p>Both of these archives have published numerous volumes of foreign relations
+                    documents. For their catalogs, see <ref target="http://www.archives.gov.tw/english/Book/Public.aspx?cnid=398"/> and <ref target="http://book.drnh.gov.tw/"/>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

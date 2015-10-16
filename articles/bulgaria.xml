@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Bulgaria</title>
+                <title type="short">Bulgaria</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>New legislation may change the current law soon, but will most likely improve
+                    access rather than inhibit it. Currently, materials prior to 1944 are found at
+                    the Central State Archives. For materials after 1944, researchers are advised to
+                    contact the Diplomatic Archives at the Ministry of Foreign Affairs. The early
+                    period has been reviewed and declassified. The process for later years is
+                    on-going, though unclassified documents are accessible. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Central State Archives: Sofia 1000, 5 Moskovska Str.</p>
+                <p>Diplomatic Archives at the Ministry of Foreign Affairs: Sofia 1040, 2 Alexander Zhendov Str.
+             </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>Foreign researchers should contact the archive at least thirty days in advance
+                    of visit. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.archives.government.bg/index.php?lang=en&amp;page=11">Central State Archives</ref>
+                </p>
+                <p>
+                    <ref target="http://www.mfa.bg/en/">Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+            <div type="section" xml:id="Publications">
+                <head>Published Documents</head>
+                <p>The Ministry of Foreign Affairs has no regular series of published documents.
+                    However, it has produced individual volumes elaborating particular themes in
+                    Bulgarian History.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

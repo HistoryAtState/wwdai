@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Slovenia</title>
+                <title type="short">Slovenia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Public archival material created during the period of the Socialist Federal
+                    Republic of Yugoslavia up until the year 1991, including confidential documents,
+                    is available to the public, with the exception of material containing personal
+                    data and data relating to the privacy of an individual. Material created after
+                    1991 becomes available after 30 years.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Ministry of Foreign Affairs Prešernova 25 1000 Ljubljana</p>
+                <p>Archives of the Republic of Slovenia Zvezdarska 1 1000 Ljubljana </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>The Archives of the Republic of Slovenia hold records created before 1991. Post-
+                    1991 records are found at the archives of the Ministry of Foreign Affairs. There
+                    is a reading room at the National Archives and members of the public may gain
+                    access with a picture ID. For the Ministry of Foreign Affairs, researchers must
+                    send advance notification of their arrival with an explanation of the reason for
+                    wanting access in order to obtain consent by the Secretary General of the
+                    Ministry of Foreign Affairs.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.mzz.gov.si/">Ministry of Foreign Affairs</ref>
+                </p>
+                <p>
+                    <ref target="http://www.arhiv.gov.si/en/">National Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

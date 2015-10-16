@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Panama</title>
+                <title type="short">Panama</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>There is no systematic declassification of documents. All material from the
+                    period before Panamanian independence (1903) is available in the central
+                    National Archives.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>The Ministry of Foreign Affairs in located in the Casco Viejo of Panama City.
+                </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>The Ministry of Foreign Affairs has an archives department that is open to
+                    researchers with a letter from a representing academic or government
+                    institution. Regulations require that an officer of the Archives Department must
+                    authorize any documents before viewing by a researcher. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.mire.gob.pa/">Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Guyana</title>
+                <title type="short">Guyana</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The National Archives of Guyana Act of 1982 provided for the preservation of
+                    government records. With certain exceptions, diplomatic archives are available
+                    to the public 50 years after creation. However, the Permanent Secretary of the
+                    Ministry of Foreign Affairs may authorize credited researchers access to
+                    documents under 50 years of age.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> Ministry of Foreign Affairs, 254 South Road and New Garden Street, Georgetown,
+                    Guyana</p>
+                <p> National Archives of Guyana, 26-28 Main Street, Georgetown, Guyana. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>For documents older than 50 years, researchers should visit the National Archives
+                    directly. For more recent documents, researchers must obtain permission by
+                    writing to the Ministry of Foreign Affairs.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.minfor.gov.gy/">Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

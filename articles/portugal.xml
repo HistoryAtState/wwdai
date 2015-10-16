@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Portugal</title>
+                <title type="short">Portugal</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>As a general rule, records older than 30 years are declassified by the Commission
+                    for the Declassification of Diplomatic Records and released to public access.
+                    The Commission may give access to records, which are less than 30 years old.
+                </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Ministério dos Negócios Estrangeiros Serviço de Arquivo Histórico-Diplomático
+                    Largo do Rilvas P- 1399-030 Lisboa </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>Researchers may contact the archives ahead of time, or just visit the reading
+                    room. Foreign researchers should have a letter of presentation from their
+                    country’s embassy in Lisbon. Records from before 1850 are stored at the National
+                    Archives. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://idi.mne.pt/pt/arquivobiblioteca.html">Arquivo Histórico – Diplomático</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Malta</title>
+                <title type="short">Malta</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The National Archive Act of 1990 prescribed standards for public accessibility of
+                    Malta’s government archives. Records are closed for 30 years, following which
+                    most records are open for public inspection. Records from the Ministry of
+                    Foreign Affairs are sent to the National Archives for release after 30 years.
+                    Under special circumstances, researchers may gain approval to view documents
+                    under the age of 30.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> Ministry of Foreign Affairs, “Palazzo Parisio” Merchants Street, Valletta CMR02</p>
+                <p> The National Archives of Malta Santo Spirito Hospital Street Rabat, Malta RBT 12
+                </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers may visit the Archives and access the reading room with a passport
+                    or national ID card. The reading room has finding aids and forms to request
+                    documents. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.libraries.gov.mt/splash_page/index.htm">National Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

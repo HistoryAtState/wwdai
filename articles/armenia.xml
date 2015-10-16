@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Armenia</title>
+                <title type="short">Armenia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The Armenian Legislature passed a Law on Freedom of Information in 2003.
+                    Researchers may request access to diplomatic archives, though the rules are
+                    slightly different for foreign nationals than for Armenian citizens. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> National Archives: 5 Hr. Kochar, Yerevan, 375033.</p>
+                <p> Ministry of Foreign Affairs: Government House #2, Republic Square, Yerevan 0010
+                </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers should contact the Diplomatic Archives at the Ministry of Foreign
+                    Affairs to inquire about access to their records. Older records are available at
+                    the National Archives. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.armeniaforeignministry.com/">Ministry of Foreign Affairs</ref>
+                </p>
+                <p>
+                    <ref target="http://www.armarchives.am/en/">National Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

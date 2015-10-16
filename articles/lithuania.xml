@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Lithuania</title>
+                <title type="short">Lithuania</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p> The Law on Documents and Archives stipulates that access to government documents
+                    shall be open unless they contain information which is a state secret. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> Archives of the Ministry of the Foreign Affairs of the Republic of Lithuania:
+                    J.Tumo - Vaizganto str.2, LT - 01511 Vilnius</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>The location of Foreign Affairs documents depends on the time period. Documents
+                    from post-1990 are found at the State Modern Archives. Documents from the Soviet
+                    period are found at the Central State Archives and documents from prior to 1918
+                    are found at the State Historical Archives. Researchers may contact the relevant
+                    archive ahead of time or visit the reading room with a picture I.D.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.archyvai.lt/archyvai/changeSite.do?siteId=&amp;pathId=68">Lithuanian Archives Department</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

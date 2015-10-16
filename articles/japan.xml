@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Japan</title>
+                <title type="short">Japan</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>According to a law passed in 1976, documents can be disclosed to the public after
+                    30 years. In practice, the Diplomatic Record Office (opened in 1971) publishes
+                    collections of documents on a schedule that is supposed to follow that 30 year
+                    line, but in fact materials are published at an uneven rate. As of 2005, the DRO
+                    had published 19 sets of documents, with the latest set covering the years
+                    1951-1976. Documents from the mid-19th century until 1945 are available to be
+                    viewed at the DRO, also according to law.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> The Diplomatic Record Office: 5-3, 1-chome, Azabudai, Minatoku, Tokyo, 106-0041
+                </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> No prior contact is needed to make use of the archives; application can be made
+                    upon arrival. Researchers should bring multiple forms of identification,
+                    including an institutional I.D. There are finding aids for all materials at the
+                    DRO. There is no fee to access the collections. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.archives.go.jp/">National Archives of Japan</ref>
+                </p>
+                <p>
+                    <ref target="http://www.mofa.go.jp/about/hq/record/">Ministry of Foreign Affairs Diplomatic Record Office</ref>
+                </p>
+            </div>
+            <div type="section" xml:id="Publications">
+                <head>Published Documents</head>
+                <p>The Ministry of Foreign Affairs publishes the series, <hi rend="italic">Nihongaikobunsho</hi> (Documents on Japanese Foreign Policy), and is
+                    currently at work on the post-Second World War period. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

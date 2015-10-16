@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Singapore</title>
+                <title type="short">Singapore</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Records in the custody of the National Archives of Singapore are available to the
+                    public after 25 years. Certain national acts such as the Privacy Act, Population
+                    Census Act and Income tax Act may prevent the release of certain records. The
+                    National Archives has a declassification committee who reviews sensitive public
+                    archives for release. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>The National Archives of Singapore are located at 1 Canning Rise Singapore 179868
+                    (off Hill Street). </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers may visit the Archives Reference Room and search the catalogue for
+                    open records. To view classified records, members of the public must obtain
+                    permission from the creating agency. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.nhb.gov.sg/NAS">National Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Turkey</title>
+                <title type="short">Turkey</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The Turkish Foreign Ministry is currently developing a system to catalogue its
+                    archives, so there is no cache of declassified or unclassified documents.
+                    However, Turkey has a Law on Right to Information that went into effect in 2004
+                    that gives researchers the right to request access to diplomatic records. Also,
+                    the Ottoman State Archives (pre 1923) are open to research. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>The Directorate of Republican Archives and the Directorate of Documentation are
+                    based in Ankara. The Directorate of Ottoman Archives is based in Istanbul. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>From abroad, foreign researchers should contact the Turkish Embassy in their own
+                    countries to apply for a research visa and access to archives. In Turkey, local
+                    and foreign researchers may apply in person.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.devletarsivleri.gov.tr/source.cms4/index.asp?wslt=devletarsivleri.gov.tr.ce">State Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

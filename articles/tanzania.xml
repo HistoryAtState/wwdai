@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Tanzania</title>
+                <title type="short">Tanzania</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p> A government circular of 1980 legislates that any research conducted in mainland
+                    Tanzania requires prior approval from the Tanzania Commission for Science and
+                    Technology. Zanzibar has separate requirements. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Ministry of Foreign Affairs and International Cooperation, Permanent Secretary,
+                    Kivukoni Road P.O. Box 9000, Dar es Salaam</p>
+                <p> The Director General Tanzania Commission for Science and Technology, Ali Hassan,
+                    Mwinyi Road Kijitonyama Area, P.O Box 4302, Dar es Salaam </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>Researchers must submit an application, CV, three photographs, and a fee of US$50
+                    to the Tanzania Commission for Science and Technology approximately two months
+                    before commencing research. There are further fees for foreigners if permission
+                    is granted.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.tanzania.go.tz/government/foreign.htm">Ministry of Foreign Affairs and International Cooperation</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

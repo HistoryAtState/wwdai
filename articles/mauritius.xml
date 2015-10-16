@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Mauritius</title>
+                <title type="short">Mauritius</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Access to records is restricted for 60 years from creation.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Mauritius Archives, Development Bank of Mauritius Complex, Petite Rivière,
+                    Maurice</p>
+                <p>Ministry of Foreign Affairs, International Trade and Cooperation, 5th floor, New
+                    Government Centre, Port Louis. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>Researchers should contact the Ministry of Foreign Affairs to inquire about
+                    documents under 30 years of age.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.gov.mu/portal/site/mac/menuitem.adf2c4b1e2d8d5aea6597adaa0208a0c/">National Archives, Ministry of Arts and Culture</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

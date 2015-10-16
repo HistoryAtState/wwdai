@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Lesotho</title>
+                <title type="short">Lesotho</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>National Archives: POB 52, Maseru 100, Kingsway.</p>
+                <p>Ministry of Foreign Affairs and International Relations: P.O. Box 1387 Maseru 100
+                </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers should contact both the National Archives and the Ministry of
+                    Foreign Affairs with a detailed research proposal. Many records from the
+                    pre-independence period can be found in the UK National Archives. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.lesotho.gov.ls/foreign/">Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

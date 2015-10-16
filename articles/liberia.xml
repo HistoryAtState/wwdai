@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Liberia</title>
+                <title type="short">Liberia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The state of the archives is still one of preservation as Liberia recovers from
+                    years of civil war and political strife. An international group of archivists is
+                    assisting with the project. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Many Presidential Archives reside in the Executive Mansion in Monrovia. The
+                    Ministry of Foreign Affairs has its own archive.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>Researchers should contact the Ministry of Foreign Affairs to inquire about
+                    access to diplomatic archives. Some archival material can be found in the United
+                    States at Indiana University as the U.S. institution has aided with the
+                    restoration of damaged files. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.mofa.gov.lr/">Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

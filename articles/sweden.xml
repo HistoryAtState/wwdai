@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Sweden</title>
+                <title type="short">Sweden</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p> Sweden has the oldest law in the world governing the right of public access to
+                    government materials, enacted in 1766. There are currently a few restrictions
+                    laid out in the Secrecy Act of 1980, but the archives remain largely accessible.
+                </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> The National Archives of Sweden in Marieberg, Stockholm Postal address: P.O. Box
+                    125 41, SE-102 29 STOCKHOLM Visiting address: Fyrverkarbacken 13</p>
+                <p> Ministry for Foreign Affairs Administrative Department Archive Section Postal
+                    address: SE-103 39 Stockholm </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Most of the documents created before 1952 reside at the National Archives and
+                    those created after that date are found at the Ministry of Foreign Affairs.
+                    Researchers may visit the archives directly or write ahead of time.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.statensarkiv.se/default.aspx?id=2138">National Archives</ref>
+                </p>
+                <p>
+                    <ref target="http://sweden.gov.se/sb/d/2059">Ministry for Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

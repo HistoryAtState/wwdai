@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Hungary</title>
+                <title type="short">Hungary</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Access to public records preserved in the National Archives of Hungary is
+                    regulated by the Archives Act of 1995. They provide for a duel track in dealing
+                    with records from pre and post-democratic Hungary. Records created before May
+                    1990 are available to the public. Records created after May 2, 1990 will be made
+                    available to the public 30 years after their creation.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Foreign affairs documents created between 1918-1944:<lb/> 
+                    National Archives of Hungary - Department II.<lb/> 
+                    Department of Records of Government Organs of the Period 1867-1945<lb/> 
+                    1014 Budapest, Bécsi kapu tér 2-4<lb/> 
+                    Postal Address: 1250 Budapest POB. 3</p>
+                <p>Foreign affairs documents created after 1944:<lb/> 
+                    The National Archives of Hungary - Department V.<lb/> 
+                    Department of Records of the Post-1945 Political Government Agencies<lb/> 
+                    1014 Budapest, Hess András tér 5.<lb/> 
+                    Postal Address: 1250 Budapest POB. 3</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>Researchers should contact the archives at least 8 days in advance with a letter
+                    of introduction from their institution or university. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.mol.gov.hu/">National Archives of Hungary</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

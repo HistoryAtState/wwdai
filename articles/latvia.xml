@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Latvia</title>
+                <title type="short">Latvia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Several laws passed since Latvian independence in 1991 dictate access to Foreign
+                    Affairs archives. The diplomatic historical archives (1918 - 1990) are
+                    accessible to national and foreign researchers at the Latvia State Historical
+                    Archives. Latvian researchers may request access to post 1990 documents housed
+                    at the Ministry of Foreign Affairs Archives. Foreign researchers may not access
+                    the documents of the Ministry. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Archives of Ministry of Foreign Affairs of Republic of Latvia: 36 boulevard
+                    Brīvības, LV 1395 Riga </p>
+                <p>Latvia State Historical Archives: 16 Slokas Street, LV 1007 Riga </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>Today all archives of the Ministry and legations from 1918 to 1990 are kept in
+                    the Latvian State Historical Archives. Researchers must present a letter of
+                    introduction from their institution or university.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.arhivi.lv/index.php?&amp;3">State Archive</ref>
+                </p>
+                <p>
+                    <ref target="http://www.am.gov.lv/en/">Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

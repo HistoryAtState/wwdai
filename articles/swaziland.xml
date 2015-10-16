@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Swaziland</title>
+                <title type="short">Swaziland</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The Archives Act of 1971 created the National Archives of Swaziland. Currently
+                    records available for research were created between 1947 and 1969, but there is
+                    a de facto rule that documents become accessible 30 years after creation.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>National Archives, Parliament Road, LOBAMBA, PO Box 946, MBABANE.</p>
+                <p> Ministry of Foreign Affairs and Trade, PO Box 518, MBABANE. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers should contact both the National Archives and the Ministry of
+                    Foreign Affairs to inquire about the feasibility of accessing relevant records.
+                </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.gov.sz/home.asp?pid=2002">National Archives</ref>
+                </p>
+                <p>
+                    <ref target="http://www.gov.sz/home.asp?pid=60">Ministry of Foreign Affairs and Trade</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

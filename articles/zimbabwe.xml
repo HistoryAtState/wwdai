@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Zimbabwe</title>
+                <title type="short">Zimbabwe</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Records remain closed for 25 years after creation.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>National Archives of Zimbabwe, Borrowdale Road, Gunhill, Private Bag 7729,
+                    Causeway Harare</p>
+                <p> Ministry of Foreign Affairs, Munhumutapa Building, Samora Machel Ave, P.O. Box
+                    4240 Harare </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>Foreign researchers must apply for a permit from the Research Council of Zimbabwe
+                    before entering the country. Applications must include affiliation with a local
+                    institution, a research proposal and US$500 (or an amount as determined by the
+                    RCZ at any given time).</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.zimfa.gov.zw/">Ministry of Foreign Affairs</ref>
+                </p>
+                <p>
+                    <ref target="http://www.moha.gov.zw/naz_library.php">National Archives</ref>
+                </p>
+                <p>
+                    <ref target="http://www.rcz.ac.zw/">Research Council of Zimbabwe</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

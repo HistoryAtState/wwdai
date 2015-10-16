@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Vanuatu</title>
+                <title type="short">Vanuatu</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The Archives Law (see <ref
+                    target="http://www.ndl.go.jp/en/cdnlao/meetings/pdf/CR2008-Vanuatu.pdf"
+                    >Legislation and proceedures governing declassification of diplomatic
+                    archives</ref>, PDF) stipulates that all public archives of the age of
+                    fifteen years or overall archives deposited in the National Archives and that,
+                    subject certain stipulations, all archives deposited in the National Archives
+                    shall be available for public reference.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Department of Culture, Religion, Women’s Affairs and National Archives: PO Box:
+                    PMB 9091, Port-Vila.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>Researchers should contact in writing the National Archives and the Ministry of
+                    Affairs before arranging a visit. </p>
+                <div type="section" xml:id="Website">
+                    <head>Website</head>
+                    <p>
+                        <ref
+                            target="http://www.governmentofvanuatu.gov.vu/government-ministries/ministry-of-foreign-affairs.html"
+                            >Ministry of Foreign Affairs</ref>
+                    </p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

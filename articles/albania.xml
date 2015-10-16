@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Albania</title>
+                <title type="short">Albania</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Albania is in the process of opening up and modernizing its archives to provide
+                    greater transparency to its government. Albania has a law on the right to
+                    information for official documents.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> Albanian State Archive: Rruga “Jordan Misja” - Tirana</p>
+                <p> Ministry of Foreign Affairs: Bulevardi "Gjergj Fishta" Nr.6, Tirana. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers should contact the archive and the Ministry of Foreign Affairs ahead
+                    of any visit to establish which materials might be available. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.albarchive.gov.al/cms/front_content.php?idart=97&amp;idcat=76">State Archive</ref>
+                </p>
+                <p>
+                    <ref target="http://www.mfa.gov.al/">Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

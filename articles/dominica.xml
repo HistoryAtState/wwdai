@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Dominica</title>
+                <title type="short">Dominica</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>There is no formal legislation governing the access to diplomatic records.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>National Documentation Centre Library and Information Services of Dominica:
+                Kennedy Avenue, ROSEAU. </p>
+                <p>Ministry of Foreign Affairs: Government Headquarters,
+                    Kennedy Avenue, Roseau. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>For access to records pre-dating Dominica’s independence in 1978, researchers
+                    should consult the UK National Archives. For documents produced after
+                    independence, researchers should contact the Ministry of Foreign Affairs of
+                    Dominica.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.dominica.gov.dm/cms/index.php?q=node/1128">The Government of Dominica</ref>
+                </p>
+                <p>
+                    <ref target="http://www.dlis.gov.dm/opac-tmpl/prog/newweb/index.html">National Library and Information Service</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

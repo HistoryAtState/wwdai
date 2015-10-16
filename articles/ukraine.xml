@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Ukraine</title>
+                <title type="short">Ukraine</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The Law on National Archival Fund and Archival Bodies allows for access to
+                    records once they are in the possession of the Archives. Documents containing
+                    state secrets can be withheld until they are declassified by the public
+                    authority.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> Ministry of Foreign Affairs: Mykhaylivska sqr., Kiev, 01018</p>
+                <p> State Archives: 24 Solom'ianska St. Kiev 03110 </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>For pre-independence era records, researchers should contact the State Archives.
+                    For more recent information, contact the Ministry of Foreign Affairs directly.
+                    Some Soviet era documents will still be located in Moscow, Russia. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.mfa.gov.ua/mfa/en">Ministry of Foreign Affairs</ref>
+                </p>
+                <p>
+                    <ref target="http://www.archives.gov.ua/Eng/">State Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

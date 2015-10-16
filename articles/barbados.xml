@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Barbados</title>
+                <title type="short">Barbados</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Barbados has no systematic declassification of government documents.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Ministry of Foreign Affairs and Foreign Trade: 1 Culloden Road, St. Michael.</p>
+                <p>Archives Department: Black Rock, St. Michael. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>Researchers should contact the Ministry of Foreign Affairs to request access to
+                    documents. For pre-independence documents, researchers should write to the UK
+                    National Archives.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.foreign.gov.bb/">Ministry of Foreign Affairs</ref>
+                </p>
+                <p>
+                    <ref target="http://www.gov.bb/portal/page/portal/BIG_Department_of_Archives">Department of the Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Saint Vincent and the Grenadines</title>
+                <title type="short">Saint Vincent and the Grenadines</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The government of St. Vincent and the Grenadines has no systematic process for
+                    the declassification of documents.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Ministry of Foreign Affairs, Commerce and Trade: Administrative Building, Bay
+                    Street, Kingstown, St.Vincent.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers should write directly to the Ministry of Foreign Affairs to request
+                    access to particular documents.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.gov.vc/">Government of Saint Vincent and the Grenadines</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

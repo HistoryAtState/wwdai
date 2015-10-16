@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Cambodia</title>
+                <title type="short">Cambodia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The National Archives of Cambodia, with the support of the French, Swiss and
+                    Australian Embassies, has since the mid-1990s been working to organize its
+                    documents and make them accessible to the public. The process is by no means
+                    complete so researchers should contact the Archives directly to see what is
+                    available for viewing.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> National Archives of Cambodia, P.O. Box 1109, Phnom Penh, Cambodia</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers must obtain permission from the Archives Director by providing a
+                    letter of introduction. The Secretary of State at the Council of Ministers is
+                    the only one who can give permission to view documents from the Pol Pot era.
+                    Foreigners must pay a monthly fee to use the Archives. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.camnet.com.kh/archives.cambodia/English/welcome.htm">The National Archives of Cambodia</ref>
+                </p>
+                <p>
+                    <ref target="http://www.mfaic.gov.kh">Ministry of Foreign Affairs and International Cooperation</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

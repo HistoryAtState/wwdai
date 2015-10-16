@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Malawi</title>
+                <title type="short">Malawi</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The National Archives Act of 1990 stipulates that access to the content of the
+                    archives can only be achieved with the permission of the Head Archivist.
+                    Essentially, documents are available after 40 years with the approval of the
+                    creating Ministry. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Ministry of Foreign Affairs, P.O. Box 30315, Capital City, Lilongwe 3. The Deputy
+                    Director of Culture, National Archives of Malawi, Mkulichi Road, P.O. Box 62,
+                    Zomba. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>Researchers should apply to the National Archives with a detailed request for
+                    access to its records. This can be done at the Archives. There are no
+                    restrictions on accessing the finding aids found in the Search Room. If
+                    permission is granted, there is a fee to view the Archives’ records.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.malawi.gov.mw/Foreign%20Affairs/Home%20ForeignAffairs.htm">Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

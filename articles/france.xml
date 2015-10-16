@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: France</title>
+                <title type="short">France</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2010</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2010</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2011-03-28">Incorporated Paul Pitman's changes from French archivist</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Researchers may consult most public documents in the archives of the Ministry of
+                    Foreign and European Affairs after a period of 25 years under the provisions of
+                    the archives law of July 15, 2008 (law no. 2008-696).  However, certain
+                    categories of documents remain closed for a longer period, and others cannot be
+                    consulted at all.  Under certain conditions, a researcher may request and receive
+                    authorization to consult documents that still remain closed.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>The diplomatic archives may be consulted at two sites: the Centre des archives
+                    diplomatiques de La Courneuve (3, rue Suzanne-Masson, 93120 La Courneuve) and
+                    the Centre des archives diplomatiques de Nantes (17 rue de Casterneau, 44000
+                    Nantes).</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>A researcher who wishes to conduct research in the Diplomatic Archives may apply
+                    for a reader’s card after presenting official proof of identity. For further
+                    details, see the archives website.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref
+                        target="http://www.diplomatie.gouv.fr/fr/ministere_817/archives-patrimoine_3512/index.html"
+                        >Diplomatic Archives</ref>
+                </p>
+            </div>
+            <div type="section" xml:id="Publications">
+                <head>Published Documents</head>
+                <p>The Ministry of Foreign Affairs is currently publishing four series of diplomatic
+                    documents covering the following periods: 1914 to 1919, 1920 to 1932, 1939 to
+                    1944, and 1954 on. The ministry’s website contains a <ref
+                        target="http://www.diplomatie.gouv.fr/fr/ministere_817/archives-patrimoine_3512/publications_11473/documents-diplomatiques-francais_22237.html"
+                        >list of published volumes</ref> in these and earlier series.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

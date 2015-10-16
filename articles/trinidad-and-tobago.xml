@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Trinidad and Tobago</title>
+                <title type="short">Trinidad and Tobago</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p> The government of Trinidad and Tobago passed a Freedom of Information Act in
+                    1999 that went into effect in 2001. Members of the public may apply for access
+                    to government documents older than 10 years. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>National Archives: 105 St. Vincent Street, P.O. Box 763, Port of Spain.</p>
+                <p> Ministry of Foreign Affairs: 1 Queen’s Park West, Port of Spain</p>
+                <p> Ministry of Public Administration and Information: Level 7, National Library
+                    Building, Corner Hart and Abercromby Streets, Port of Spain. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers should write to the FOI Unit of the Ministry of Public
+                    Administration and Information to request access to Foreign Ministry
+                documents.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.foreign.gov.tt/">Ministry of Foreign Affairs</ref>
+                </p>
+                <p>
+                    <ref target="http://www.nalis.gov.tt/AdministrationGov/Min_PublicAdminandInformation.htm">Ministry of Public Administration and Information</ref>
+                </p>
+                <p>
+                    <ref target="http://natt.gov.tt/">National Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

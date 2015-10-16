@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Grenada</title>
+                <title type="short">Grenada</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>There is no official legislation that governs access to diplomatic archives.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Public Library/National Archives, 2 Carenage, St George's</p>
+                <p>Ministry of Foreign Affairs and International Trade: Ministerial Complex,
+                    Tanteen, St. George’s.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>For records prior to 1974, researchers should consult the UK National Archives.
+                    For post-independence documents, researchers should contact the Ministry of
+                    Foreign Affairs and International Trade.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.gov.gd/">Government of Grenada</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

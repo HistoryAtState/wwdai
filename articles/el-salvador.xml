@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: El Salvador</title>
+                <title type="short">El Salvador</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Access to the Diplomatic Archives must be approved by the administration of the
+                    Ministry of Foreign Affairs.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>National Archives: Palacio Nacional, Centro Histórico, Avenida Cuscatlán San
+                    Salvador.</p>
+                <p> Ministry of Foreign Affairs Historical Archive: Final 17ª Avenida Norte, Plan
+                    Maestro Centro de Gobierno, Anexo “B” Edificio Número 2. San Salvador. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Many documents created prior to 1930 can be found at the National Archives.
+                    Researchers should first contact, however, the Historical Archive of the
+                    Ministry of Foreign Affairs, and provide a letter from their sponsoring
+                    university or institution. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.agn.gob.sv/">National Archives</ref>
+                </p>
+                <p>
+                    <ref target="http://www.rree.gob.sv/sitio/sitiowebrree.nsf">Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

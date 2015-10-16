@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Guatemala</title>
+                <title type="short">Guatemala</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Ministry of Foreign Affairs: 2a Avenida 4-17, zona 10 Ciudad de Guatemala.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.minex.gob.gt/">Ministry of Foreign Affairs</ref>
+                </p>
+                <p>
+                    <ref target="http://www.minex.gob.gt/Consulta_Archivos.aspx">Digital Archive</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

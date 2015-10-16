@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Colombia</title>
+                <title type="short">Colombia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The Ministry of Foreign Affairs library has documents from 1966. These are not
+                    open to the public but requests for an exception may be addressed to the
+                    Minister of Foreign Affairs. Older material has been transferred to the National
+                    Archives and it is available to the public. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>The Archivo General de la Nación is located in central Bogotá.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>Researchers must request a credential by sending a personal letter, a letter from
+                    the representing institution, two photographs and a photocopy of a passport to
+                    the National Archive.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.archivogeneral.gov.co/">National Archives</ref>
+                </p>
+                <p>
+                    <ref target="http://www.cancilleria.gov.co/wps/portal/ingles">Ministry of
+                        Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

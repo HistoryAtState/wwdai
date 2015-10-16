@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: The United Kingdom</title>
+                <title type="short">The United Kingdom</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Recent legislation under the Freedom of Information Act stipulates that a
+                    document is available as soon as it is created unless it falls under the list of
+                    exceptions to the Act. This replaces the previous thirty-year rule.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>The National Archives: Kew, Richmond, Surrey, TW9 4DU (about 40 minutes by train
+                    from central London). </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>Researchers are required to obtain a reader ticket. This can be done at the site
+                    by showing a passport or national identity card. Researchers may request three
+                    documents at a time and this can be done prior to arrival. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.nationalarchives.gov.uk">National Archives</ref>
+                </p>
+            </div>
+            <div type="section" xml:id="Publications">
+                <head>Published Documents</head>
+                <p>The Foreign and Commonwealth Office publishes Documents on British Policy
+                    Overseas in three series covering British foreign relations since 1945. It has
+                    previously published <hi rend="italic">British Documents on the Origins of the
+                        War (1898-1914)</hi> and <hi rend="italic">Documents on British Foreign
+                        Policy (1919-39)</hi>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

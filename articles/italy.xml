@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Italy</title>
+                <title type="short">Italy</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Ministerial decrees, the most recent of which was issued in 1999, legislate
+                    access to the archives. Currently, documents which are more than 50 years old
+                    can be consulted after authorization given by the director. Only in exceptional
+                    cases, the Ministry may reduce the time-limit to 30 years.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> Ministero degli Affari esteri, Servizio Storico Archivi e Documentazione,
+                    Ufficio II - Archivio Storico Diplomatico Piazzale della Farnesina 1, I – 00194
+                    Rome</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers must present a letter of introduction from their university or
+                    institution </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.archivi.beniculturali.it/">National Archives</ref>
+                </p>
+                <p>
+                    <ref target="http://www.esteri.it">Ministry of Foreign Affairs</ref>
+                </p>
+                <p>
+                    <ref target="http://www.esteri.it/MAE/IT/Ministero/Servizi/Italiani/Archivi_Biblioteca/Storico_Diplom/default.htm">Historical Diplomatic Office at the Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+            <div type="section" xml:id="Publications">
+                <head>Published Documents</head>
+                <p>A committee from the Ministry of Foreign Affairs has published a series of
+                    volumes, called Documenti diplomatici italiani.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

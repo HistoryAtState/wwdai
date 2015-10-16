@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Republic of Congo</title>
+                <title type="short">Republic of Congo</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>There is no official legislation governing the access to diplomatic records.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>National Archives: Rue Eugène Etienne, BP 114, Brazzaville. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>Researchers should contact the nearest Republic of Congo Embassy or the Republic
+                    of Congo’s permanent mission to the United Nations with a letter of introduction
+                    to inquire about the feasibility of any research.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.un.int/wcm/content/site/congo">Permanent Mission to the United Nations</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

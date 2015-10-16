@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: South Africa</title>
+                <title type="short">South Africa</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Federal Government documents, including those of the South African Department of
+                    Foreign Affairs, are deposited at the National Archives. The National Archives
+                    and Records Service of South Africa Act of 1996 stipulates that any member of
+                    the public has a right of access to archives that are older than twenty years.
+                    Researchers may apply in writing, under the Promotion of Access to Information
+                    Act of 2000, to access documents under 20 years old.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>National Archives:</p>
+                <p>Postal address: Private Bag X236, PRETORIA 0001<lb/> Street address: 24 Hamilton
+                    Street, Arcadia, PRETORIA</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>Researchers may visit the Archives directly and apply for an admission card or
+                    contact the Archives before visiting.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.national.archives.gov.za/">National Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

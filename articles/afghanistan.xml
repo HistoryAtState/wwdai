@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Afghanistan</title>
+                <title type="short">Afghanistan</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>There is no legislation for the systematic declassification of government
+                    documents. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> National Archives: Beside Conservatory of Music, Salang Watt Street, Kabul.</p>
+                <p> Ministry of Foreign Affairs: Malak Azghar Road, Kabul. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Documents at the National Archives have suffered damage from improper storage
+                    and the archivists are working to restore them. The Ministry of Foreign Affairs
+                    has an Archive Directorate. Researchers should contact it to assess the
+                    feasibility of research. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.mfa.gov.af/">Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Ireland</title>
+                <title type="short">Ireland</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Access to the National Archives is governed by the National Archives Act of 1986
+                    and the Freedom of Information Act of 1997. All Government Departmental records
+                    which are more than 30 years old must be transferred to the National Archives
+                    and made available for inspection by the public with exceptions for records that
+                    are contrary to the public interest. The Freedom of Information Act gives
+                    members of the public the right to request access to unavailable documents.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> The National Archives, Bishop Street, Dublin 8.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>Researchers must acquire a Reader’s Ticket to access the archives. This can be
+                    done by visiting the archives and presenting a photo ID. Members of the public
+                    may just present themselves in person to the Archives. However, the Archives’
+                    staff recommends that researchers contact them ahead of time in order to
+                    expedite the process of ordering files. Additionally, there is an on-line search
+                    engine.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.nationalarchives.ie/index.html">National Archives</ref>
+                </p>
+            </div>
+            <div type="section" xml:id="Publications">
+                <head>Published Documents</head>
+                <p>The Department of Foreign Affairs, the National Archives, and the Royal Irish
+                    Academy combine to publish the series, Documents on Irish Foreign Policy.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

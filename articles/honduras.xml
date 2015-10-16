@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Honduras</title>
+                <title type="short">Honduras</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The Honduran Government passed a Law on Transparency and Access to Public
+                    Information that came into effect in January 2007 to provide a system of access
+                    and declassification to government documents. Individual Ministers, however,
+                    have strong powers to reserve documents from the public that may be construed as
+                    dangerous to humanitarian aid, national security, economic stability or smooth
+                    governance. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>The Ministry of Foreign Affairs is located in Tegucigalpa. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>Researchers must apply directly to the Foreign Ministry to request access to
+                    documents. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.sre.hn/">Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+            <div type="section" xml:id="Publications">
+                <head>Published Documents</head>
+                <p> The Foreign Ministry produces a yearly “Memoir of the Secretary of State of
+                    Foreign Relations” and a quarterly publication “Revista de la Cancilleria de
+                    Honduras.” </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Senegal</title>
+                <title type="short">Senegal</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The National Archives of Senegal in Dakar is open to the public and is the
+                    starting point for an application for research. However, most foreign affairs
+                    documents are stored at the archives division of the Ministry of Foreign
+                    Affairs. There is a system in place for the declassification of diplomatic
+                    records, though the degree to which diplomatic affairs documents are
+                    declassified may vary. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> The National Archives is located at Avenue Léopold Sédar, SENGHOR, DAKAR.</p>
+                <p> The Ministry of Foreign Affairs is located at Place de l’Indépendance DAKAR.
+                </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>Researchers should contact the National Archives to start their inquiries.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.archivesdusenegal.gouv.sn/">National Archives</ref>
+                </p>
+                <p>
+                    <ref target="http://www.diplomatie.gouv.sn/">Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: The United States of America</title>
+                <title type="short">The United States of America</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Most permanent State Department records created prior to 1975 are with the
+                    National Archives and Records Administration. The Freedom of Information Act
+                    (FOIA) gives researchers the right to obtain access to all US Government
+                    executive branch documents with nine statutory exceptions. State Department
+                    records created after 1975 should be requested through FOIA. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>National Archives at College Park 8601 Adelphi Road, College Park, MD 20740-6001
+                </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>Researchers should take advantage of the on-line search engines to discover
+                    where relevant records are located. Most State Department records are located at
+                    the National Archives II at College Park, MD. However, the Presidential
+                    Libraries are also important repositories of diplomatic documents, particularly
+                    those of the National Security Council staff. A small number of diplomatic
+                    cables are available on-line. Many frequently requested documents can be found
+                    on the State Department’s Electronic Reading Room site. The State Department’s
+                    website also gives guidance on making a FOIA request.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.archives.gov/">The National Records and Archives Administration</ref>
+                </p>
+                <p>
+                    <ref target="http://www.state.gov/m/a/ips/">The Department of State FOIA</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

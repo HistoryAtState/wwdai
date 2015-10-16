@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Kenya</title>
+                <title type="short">Kenya</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The revised Public Archives and Documentation Service Act of 1991 stipulates
+                    that government records should be made available to the public after a period of
+                    30 years.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Kenya National Archives and Documentation Service, P.O Box 49210, Nairobi 0010
+                    (On Moi Ave, next to the Ambassadeur Hotel).</p>
+                <p>Ministry of Foreign Affairs, Old Treasury Building, Harambee Avenue, P.O. Box
+                    30551 Nairobi</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>The records from the Ministry of Foreign Affairs that are found in the National
+                    Archives remain closed. Researchers who wish to access Diplomatic Archives
+                    should contact the Ministry directly.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.nationalheritage.go.ke/">Ministry of State for National Heritiage and Culture</ref>
+                </p>
+                <p>
+                    <ref target="http://www.mfa.go.ke/">Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

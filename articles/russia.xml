@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Russia</title>
+                <title type="short">Russia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> Foreign Policy Archives of the Russian Federation (AVP RF): Plotnikov pereulok
+                    11, Moscow.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers should write to the Department of History and Records, Ministry of
+                    Foreign Affairs of the Russian Federation, Moscow, Russia to request permission
+                    to begin research in the archives. A passport is needed upon arrival. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.mid.ru/brp_4.nsf/main_eng">Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+            <div type="section" xml:id="Publications">
+                <head>Published Documents</head>
+                <p>The U.S. Department of State and the Russian Ministry of Foreign Affairs
+                    published a joint documentary record in both English and Russian titled <hi rend="italic">Soviet-American Relations: The Détente Years,
+                1969-1972.</hi>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

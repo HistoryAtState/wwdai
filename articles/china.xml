@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: China</title>
+                <title type="short">China</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>According to legislation passed in 1980, foreign relations documents (along with
+                    other historical materials) for all of Chinese history up to 1949 were to be
+                    made available to the public and researchers. According to an Archive Law of
+                    1987, diplomatic and other archives are to become open after 30 years.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Post-1949: Foreign Ministry Archives, No. 2, Chaoyangmen Nandajie, Chaoyang District, Beijing, 100701</p>
+                <p>1912-1949: Second Historical Archives, 309 East Zhongshan Road, Nanjing, 210016</p>
+                <p>Pre-1912: First Historical Archives, National Palace Museum, Xihuamennei,
+                    Beijing, 100031 </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>These vary from archive to archive, but generally speaking no prior contact with
+                    the archives is needed, and an application can be filled out upon arrival. A
+                    letter from your home institution is usually sufficient to gain access to the
+                    First and Second Historical Archives, but a letter from a Chinese institution is
+                    required for access to the Foreign Ministry Archives (and would help at the
+                    others as well). At least one form of official identification is also required.
+                    There are finding aids, and there is no blanket fee to access the collection.
+                    However, at the Foreign Ministry Archives, where everything that can be viewed
+                    has been digitized, there is a cost to view each page. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://dag.fmprc.gov.cn/chn/">Foreign Ministry Archives</ref> (Chinese language)
+                </p>
+                <p>
+                    <ref target="http://www.shac.net.cn/english/">Second Historical Archives</ref>
+                </p>
+                <p>
+                    <ref target="http://www.lsdag.com/">First Historical Archives</ref> (Chinese language)
+                </p>
+            </div>
+            <div type="section" xml:id="Publications">
+                <head>Published Documents</head>
+                <p>A collection of documents relating to China’s relations with Western nations
+                    prior to 1911 was published in the 1930s, under the title of Collection of
+                    Documents on the Management of Foreign Matters (Chouban yiwu shimo), and
+                    beginning in the 1950s the PRC Government began publishing collections of
+                    documents relating to particular episodes in its foreign relations. Since 1981,
+                    the First and Second Historical Archives have issued several journals that
+                    publish small collections of documents along with scholarly essays, and the
+                    Chinese Academy of Social Sciences has done the same.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

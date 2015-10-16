@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: The Republic of Korea (South Korea)</title>
+                <title type="short">The Republic of Korea (South Korea)</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The Diplomatic Archives of the Ministry of Foreign Affairs and Trade has the
+                    authority to open materials more than 30 years old. The Act on Disclosure of
+                    Information by Public Agencies which went into effect in January 1998 gives
+                    South Korean citizens and foreigners resident in South Korea the right to
+                    request access to government records with exceptions for National Security.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Ministry of Foreign Affairs: 37 Sejongno (Doryeom-dong), Jongno-gu, Seoul
+                    110-787</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers should contact the Diplomatic Archives Section of the Ministry of
+                    Foreign Affairs and Trade to check the availability of records.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://archives.go.kr/">National Archives</ref>
+                </p>
+                <p>
+                    <ref target="http://www.mofat.go.kr/english/main/index.jsp?lang=eng">Diplomatic Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

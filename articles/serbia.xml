@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Serbia</title>
+                <title type="short">Serbia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Records at the Diplomatic Archive at the Foreign Ministry are available to the
+                    public 30 years after their creation. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Ministry of Foreign Affairs: 24-26 Kneza Milosa St., 11000 Belgrade, Serbia.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p> Records from the period of the Kingdom of Yugoslavia and before are found at the
+                    Archives of Serbia. Records from Socialist Yugoslavia and after are found at the
+                    Diplomatic Archive of the Foreign Ministry. Researchers should contact the
+                    relevant archive to inquire about access to records. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.archives.org.rs/">Archives of Serbia</ref>
+                </p>
+                <p>
+                    <ref target="http://www.mfa.gov.rs/">Foreign Ministry</ref>
+                </p>
+            </div>
+            <div type="section" xml:id="Publications">
+                <head>Published Documents</head>
+                <p>Though there is no systematic publication of Serbian records, the Archives have
+                    produced several thematic volumes of Yugoslav documents.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

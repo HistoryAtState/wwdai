@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Nigeria</title>
+                <title type="short">Nigeria</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>All public archives should be made available to the public 25 years after their
+                    creation unless the creating agency chooses to keep them classified.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Federal Ministry of Information and National Orientation: Department of National
+                    Archives of Nigeria, Radio House, Garki, Abuja, Nigeria. </p>
+                <p>Ministry of Foreign Affairs: Maputo Street, off Abidjan Street, Wuse Zone 3,
+                    P.M.B. 130, Garki, Abuja. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>Researchers should contact first the National Archives and then the Ministry of
+                    Foreign Affairs to inquire about access to relevant diplomatic archives.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.mfa.gov.ng/">Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

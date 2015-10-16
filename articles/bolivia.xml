@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Bolivia</title>
+                <title type="short">Bolivia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Bolivia has several laws dictating access to archival material. Records at the
+                    National Archives are divided into the categories of ‘active’ and ‘inactive.’
+                    The former are still in use by the government and are therefore unavailable. The
+                    latter are available for research. The creating department is responsible for
+                    transferring records from active to inactive.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>National Archives: Calle Dalence Nº 4, 793 Sucre.</p>
+                <p>Ministry of Foreign Affairs: Plaza Murillo - c. Ingavi esq. c. Junín, La Paz.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>Researchers should contact the National Archives to inquire about access to
+                    relevant records.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.rree.gob.bo/">Ministry of Foreign Affairs and Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

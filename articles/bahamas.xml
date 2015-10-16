@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Bahamas</title>
+                <title type="short">Bahamas</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>In general, documents are available for research 30 years after creation. For
+                    documents under 30 years of age, researchers may apply to the relevant ministry
+                    for permission to access them. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Ministry of Foreign Affairs: Goodman's Bay Corporate Centre, West Bay Street,
+                    P.O. Box N 3746, Nassau. </p>
+                <p>National Archives: The Director, Department of Archives, Mackey and Shirley
+                    Streets, P.O. Box SS-6341, Nassau, N.P.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>Researchers must acquire a research identification card at the security desk of
+                    the National Archives. There are finding aids in the Research room. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.bahamasnationalarchives.bs/">National Archives</ref>
+                </p>
+                <p>
+                    <ref target="http://mfabahamas.org/default.htm">Ministry of Foreign
+                        Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

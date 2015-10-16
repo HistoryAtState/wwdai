@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Syria</title>
+                <title type="short">Syria</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p> There is currently no system of declassification. The National Archives
+                    Directorate and the Asad National Library house materials primarily from before
+                    the 1950s. This information is readily available to the public. More recent
+                    material is kept at the National Information Center. Visitors are required to
+                    make an appointment before visiting the center, but documents of a sensitive
+                    nature, including most diplomatic material are inaccessible. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> The Asad National Library is located on Malki Street in Damascus.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.alassad-library.gov.sy/">The National Library  .</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

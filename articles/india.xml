@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: India</title>
+                <title type="short">India</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The mandate of the Archives and access to its holdings are stipulated in the
+                    Public Records Act of 1993 and the subsequent Public Records Rules of 1997.
+                    Unclassified documents are available for viewing after 30 years. The creating
+                    agency of any material is required to review its holdings every five years to
+                    assess whether to downgrade classified material to unclassified. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> Ministry of External Affairs: Chankyapuri, New Delhi-110021</p>
+                <p> The National Archives is situated opposite the Indira Gandhi National Centre for
+                    the Arts at the Inter-section of Janpath and Rajpath in New Delhi. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers must apply to the Director of the Archives for permission to view
+                    any holdings. Foreigners need to provide a letter of introduction from their
+                    sponsoring institution. For classified material or material under the age of 30
+                    years, researchers should contact the Indian Ministry of External Affairs. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://nationalarchives.nic.in/">National Archives</ref>
+                </p>
+                <p>
+                    <ref target="http://meaindia.nic.in/index.htm">Ministry of External Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

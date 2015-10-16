@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Estonia</title>
+                <title type="short">Estonia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p> Access to Estonian Archives is legislated by the Public Information Act that
+                    gives the public the right to request access to government documents. However,
+                    state secrets are not covered by the Act. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> Archives of the Ministry of Foreign Affairs of Estonia, Islandi väljak
+                    1, Tallinn.</p>
+                <p> State Archives, 24 Madara Street, Tallinn. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers should first contact the State Archives to request in writing access
+                    to the relevant documents. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.ra.ee/?topic=25">State Archives</ref>
+                </p>
+                <p>
+                    <ref target="http://www.vm.ee/?q=en">Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

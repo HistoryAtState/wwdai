@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Fiji</title>
+                <title type="short">Fiji</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Access to the National Archives is governed by the Public Records Act and an
+                    Amendment to the Act (2006). Under these two acts, government records are
+                    transferred to the National Archives after 15 years and records older than 30
+                    years are available for public access.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> Street Address: 25 Carnavon Street (Corner of Kimberly and Carnavon Street)
+                    Suva.</p>
+                <p> Postal Address: PO Box 2125, Government Buildings, Suva, Fiji </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers must contact the National Archives in writing to apply for access.
+                </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.info.gov.fj/archives.htm">National Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

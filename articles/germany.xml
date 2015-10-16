@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Germany</title>
+                <title type="short">Germany</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The German Federal Foreign Office Archives are governed by the Law on the
+                    Preservation and Use of Federal Archival Documents of 1988. Everybody shall upon
+                    application have the right to use Federal archival documents more than 30 years
+                    old unless legal stipulations provide otherwise.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>The reading room is located in the Federal Foreign Office building between
+                    Werderscher Markt and Gertraudenstrasse in Berlin-Mitte. The entrance to the
+                    Political Archive is at Kurstrasse 36, and the Reading Room is on the 1st
+                    floor.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>All requests to use the archives must be made through the contact form on the
+                    website.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.auswaertiges-amt.de/archiv">Foreign Office
+                        Archives</ref>
+                </p>
+            </div>
+            <div type="section" xml:id="Publications">
+                <head>Published Documents</head>
+                <p>The German Federal Foreign Office has published numerous volumes of documents.
+                    New volumes are published every year for events 30 years ago.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

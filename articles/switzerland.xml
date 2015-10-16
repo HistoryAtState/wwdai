@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Switzerland</title>
+                <title type="short">Switzerland</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>According to a freedom of information law from 2006, unless there are overriding
+                    public or private interests that would speak against such a disclosure, everyone
+                    now has right of access to official documents in public administration. All
+                    documents created after 1 July 2006 can be viewed. For documents created before
+                    this date, materials older than 30 years are available for viewing at the
+                    National Archives.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> Department of Foreign Affairs Postal Address: Eidgenössisches Departement für
+                    auswärtige Angelegenheiten (EDA) Generalsekretariat Öffentlichkeitsprinzip
+                    CH-3003 </p>
+                <p>Bern Swiss Federal Archives, Archivstrasse 24, CH-3003 Bern </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Requests for access to documents created after 1 July 2006 should be sent to the
+                    Department of Foreign Affairs. For earlier materials, members of the public
+                    should contact the National Archives. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.eda.admin.ch/eda/en/home.html">Department of Foreign Affairs</ref>
+                </p>
+                <p>
+                    <ref target="http://www.bar.admin.ch/org/index.html?lang=de">Federal Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

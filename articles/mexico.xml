@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Mexico</title>
+                <title type="short">Mexico</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>In 2002, Mexico instituted a federal law of Transparency and Access to Public
+                    Government information. Under the law, requests may be made for records
+                    regardless of their date of origin, but access can be denied if the information
+                    remains sensitive. In general, diplomatic records are transferred to the archive
+                    after 25 years.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> Dirección General del Acervo Histórico Diplomático Ricardo Flores Magón Núm. 2,
+                    Edificio Triangular, Nivel 2, Ala “B”, Col. Guerrero, Del. Cuauhtémoc, México,
+                    DF 06300 </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers should provide a letter of introduction outlining their proposed
+                    research. A brief registration process can be completed on-site. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.agn.gob.mx/">National Archives</ref>
+                </p>
+                <p>
+                    <ref target="http://www.sre.gob.mx/acervo">Archives of Diplomatic History</ref>
+                </p>
+            </div>
+            <div type="section" xml:id="Publications">
+                <head>Published Documents</head>
+                <p>The Foreign Ministry does not produce any regularly published series of
+                    documents. It has, however, published a few thematic volumes.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

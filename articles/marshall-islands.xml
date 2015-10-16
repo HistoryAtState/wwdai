@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Marshall Islands</title>
+                <title type="short">Marshall Islands</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>At the National Archives, public records 25 years old or more are open to the
+                    public except where specifically restricted for reason of national security or
+                    where the information is considered to be of sensitive nature.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> Alele Museum, Library and National Archives, Post Office Box 629, Majuro,
+                    Republic of the Marshall Islands 96960 </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers should contact the National Archives to inquire about specific
+                    holdings.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://members.tripod.com/~alelemuseum/Archives.html">National Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

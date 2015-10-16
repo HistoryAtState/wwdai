@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Haiti</title>
+                <title type="short">Haiti</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>There is no legislation governing access to diplomatic archives.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> National Archives: 22 Angle Rues Borgella and Geffrard, PORT-AU-PRINCE, HAITI,
+                    PO Box: BOITE POSTALE 1299. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>Researchers are recommended to write to the National Archives in Haiti and the
+                    nearest Embassy of the government of Haiti to inquire about access to diplomatic
+                    records.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.anhhaiti.org/">National Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

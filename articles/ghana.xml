@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Ghana</title>
+                <title type="short">Ghana</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Access is restricted for 30 years after creation.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Ministry of Foreign Affairs, Treasury Road, Adjacent to Diamond House, P. O Box
+                    M53, Accra.</p>
+                <p>Public Records and Archives Administration Department, P.O. Box 3056, Accra </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers should contact both The Ministry of Foreign Affairs and the Public
+                    Records and Archives Administration Department with a letter of introduction and
+                    a research proposal. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.ghana.gov.gh/">Ministry of Foreign Affairs</ref>
+                </p>
+                <p>
+                    <ref target="http://www.praad.gov.gh/">Public Records</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

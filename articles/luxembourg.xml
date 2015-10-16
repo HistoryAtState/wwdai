@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Luxembourg</title>
+                <title type="short">Luxembourg</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The most recent legislation on access to archives was the Grand Ducal Ruling of
+                    15 January 2001. It dictates that State and local archives which were not freely
+                    available prior to their filing in the National Archives may not be freely
+                    viewed until thirty years after the date of the documents in question.
+                    Researchers may appeal to the Head Archivist.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> Archives Nationales du Grand-Duché de Luxembourg, Plateau du Saint-Esprit,
+                    Luxembourg-Ville </p>
+                <p>Postal Address: Archives Nationales, Boîte postale 6, L-2010 Luxembourg </p>
+                <p>Ministry for Foreign Affairs: Hôtel Saint-Maximin, 5, rue Notre-Dame, L-2911
+                    Luxembourg </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers should contact the National Archives in writing or in person to
+                    begin their inquiries.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.anlux.lu/">National Archives</ref>
+                </p>
+                <p>
+                    <ref target="http://www.mae.lu">Ministry for Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Sierra Leone</title>
+                <title type="short">Sierra Leone</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The Ministry of Foreign Affairs and International Cooperation of Sierra Leone
+                    does not currently have a system for the declassification of its records. Many
+                    of the ministry’s records were destroyed during the recent civil war. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>The Ministry of Foreign Affairs is located on Gloucester Street in Freetown.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>Researchers should apply to the Ministry of Foreign Affairs in Freetown with a
+                    letter of sponsorship and proof of credentials for access to documents. The
+                    Ministry will approve access on an ad hoc basis.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.foreignaffairs.gov.sl/">Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

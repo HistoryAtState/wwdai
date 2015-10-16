@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Czech Republic</title>
+                <title type="short">Czech Republic</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The Archives of the Ministry of Foreign Affairs of the Czech Republic are
+                    administered by the Ministry of Interior. Material older than 30 years is open
+                    to researchers. A member of the public may view documents not older than 30
+                    years only with the permission of the director of the specific archive. All
+                    archive materials remain classified if they could threaten the security of the
+                    state or of the public, or interests of people still living that are protected
+                    by law. Research in the Archives of the Ministry of Foreign Affairs is permitted
+                    based on a prior written request that states the subject and purpose of the
+                    research.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> Ministry of Foreign Affairs of the Czech Republic Administration and Information
+                    Processing Department, Loretánské nám. č. 5, 118 00 Praha 1 </p>
+                <p> The main research room and library are located in a new Archives' site in Prague
+                    4 - Chodovec. It is accessible by public transportation. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>Researchers should send a written request detailing which documents they would
+                    like to see. Identification is required to access the reading rooms.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.nacr.cz/eindex.htm">National Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

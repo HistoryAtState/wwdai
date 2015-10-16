@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Palau</title>
+                <title type="short">Palau</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Palau gained its independence in 1994, though the territory had established its
+                    National Archives in 1988. Prior to independence, the country was a
+                    United Nations trusteeship, administered by the United States.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>National Archives: P.O. Box 1886, Palau.</p>
+                <p>Bureau of Foreign Affairs: Ministry of State, P.O. Box 6051, Palau, PW 96940.
+                </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>Researchers should contact the Ministry of State to inquire about diplomatic
+                    records. Prior to independence, diplomatic archives may be found at the United
+                    Nations.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.palaugov.net/PalauGov/Executive/Ministries/MCCA/Archive.htm">National Archives</ref>
+                </p>
+                <p>
+                    <ref target="http://www.palaugov.net/PalauGov/Executive/Ministries/MOS/MOS.htm">Ministry of State</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

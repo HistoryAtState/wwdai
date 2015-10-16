@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Canada</title>
+                <title type="short">Canada</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p> The Access to Information Act gives the right of access to all Canadian citizens
+                    and permanent residents of Canada to documents at the Archives, not subject to
+                    legal restrictions based on national security, law enforcement, commercial
+                    interests and individual privacy. Foreign researchers have the right to request
+                    access. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Library and Archives Canada is located in downtown Ottawa: 395 Wellington Street,
+                    Ottawa, Ontario. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>Researchers may visit the Library and Archives during opening hours. Visitors
+                    must obtain a user card, by showing proper identification, before using its
+                    services. Researchers may order up to ten boxes of materials in advance. Phone
+                    numbers and e-mail addresses are found on the website. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.collectionscanada.ca">Library and Archives Canada</ref>
+                </p>
+            </div>
+            <div type="section" xml:id="Publications">
+                <p>Canada produces a series entitled <hi rend="italic">Key Documents on the History
+                        of Canada's International Affairs</hi>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

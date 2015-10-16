@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Malaysia</title>
+                <title type="short">Malaysia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The National Archives Act of 2003 provides for the transfer of unclassified or
+                    declassified materials from the creating agency to the National Archives.
+                    Generally, documents are transferred after they are 25 years old.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>National Archives, Jalan Duta, 50568 Kuala Lumpur</p>
+                <p>Ministry of Foreign Affairs, No. 1, Jalan Wisma Putra, Precinct 2, 62602
+                    PUTRAJAYA </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>Members of the public may directly visit the National Archives Reception Desk
+                    and fill out a request for documents. However, researchers are advised to
+                    contact the Archives first. For material not found at the Archives, researchers
+                    should write directly to the Ministry of Foreign Affairs. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.kln.gov.my/">Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

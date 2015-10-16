@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Austria</title>
+                <title type="short">Austria</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p> The Austrian Archives Law of 1999 stipulates that government documents are
+                    systematically declassified after 30 years, with exceptions for national
+                    security and privacy issues. Researchers may appeal for preemptive
+                    declassification. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> Archiv der Republik, Nottendorfer Gasse 2, 1030 Wien/Vienna.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>The archive is open to the public, but researchers may wish to contact it ahead
+                    of time.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.oesta.gv.at/">Archiv der Republik</ref>
+                </p>
+            </div>
+            <div type="section" xml:id="Publications">
+                <head>Published Documents</head>
+                <p>The Austrian Foreign Ministry has no regularly published series of documents,
+                    though it does collaborate with outside institutions on occasional volumes. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

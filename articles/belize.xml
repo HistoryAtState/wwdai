@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Belize</title>
+                <title type="short">Belize</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p> Belize has a Freedom of Information Act that passed in 2000 that gives
+                    researchers the right to request access to government documents. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Ministry of Foreign Affairs: NEMO Building, PO Box 174, Belmopan</p>
+                <p> Archives and Records Service: 26/28 Unity Blvd., Belmopan. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>A person who wishes to obtain access to a document of a Ministry or prescribed
+                    authority shall make a request in writing to the Ministry or prescribed
+                    authority for access to the document. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.mfa.gov.bz">Ministry of Foreign Affairs</ref>
+                </p>
+                <p>
+                    <ref target="http://www.belizearchives.gov.bz/">National Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

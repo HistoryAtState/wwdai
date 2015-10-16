@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Greece</title>
+                <title type="short">Greece</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Legislation from 1998 reduced the restriction on access to foreign affairs
+                    material from 50 to 30 years. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>Hellenic Ministry of Foreign Affairs, Service of Diplomatic and Historical
+                    Archives, Zalokosta 3, 10027 Athens</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>Researchers must submit an application for research to the Secretariat of the
+                    Archives. The application can be found on-line.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.mfa.gr/www.mfa.gr/en-US/The+Ministry/Structure/Archives/">Diplomatic and Historical Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

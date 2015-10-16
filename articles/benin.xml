@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Benin</title>
+                <title type="short">Benin</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p> There are rules governing the release of government records, but there are wide
+                    variations on the timeframes, so researchers are advised to contact the National
+                    Archives and the Ministry of Foreign Affairs to discover which records they may
+                    access.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head> Location</head>
+                <p> National Archives, 2, Rue de Ouanda, BP 629, Porto Novo</p>
+                <p> Ministry of Foreign Affairs, BP 318 COTONOU 6</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Foreign students and academics must establish an agreement between their home
+                    institution and the National University of Benin in order to obtain permission
+                    from the Director of the National Archives to access government records. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head> Website</head>
+                <p>
+                    <ref target="http://www.anbenin.bj/">National Archives</ref>
+                </p>
+                <p>
+                    <ref target="http://www.gouv.bj/spip.php?rubrique137/">Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

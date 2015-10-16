@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Liechtenstein</title>
+                <title type="short">Liechtenstein</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The archives are open to all people who can prove a valid interest in material
+                    stored there. Diplomatic records are generally available thirty years after
+                    creation.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>National Archives: Liechtensteinisches Landesarchiv, Städtle 51, FL-9490 Vaduz,
+                    Principality of Liechtenstein.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Diplomatic records can be found at the National Archives. Researchers should
+                    bring proof of identity and a letter from a sponsoring institution to the
+                    Archives’ reading room. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.la.llv.li/">National Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Pakistan</title>
+                <title type="short">Pakistan</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p> The National Archives Act of 1993 gives the responsibility for the storage and
+                    preservation of public records to the National Archives. However, there is no
+                    systematic declassification of documents. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> National Archives of Pakistan, Block N, Pak. Secretariat, Islamabad.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers should contact both the National Archives and the Ministry of
+                    Foreign Affairs with proposed research. Foreign researchers will need approval
+                    from the Department of the Interior in order to access the National Archives.
+                    There is a nominal fee to access materials at the National Archives. Researchers
+                    may apply for permission from the Director of Archives of the Ministry of
+                    Foreign Affairs to view material not yet transferred to the National Archives.
+                </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.nap.gov.pk/collections.asp">National Archives of Pakistan</ref>
+                </p>
+                <p>
+                    <ref target="http://www.mofa.gov.pk/">Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

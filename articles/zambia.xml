@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Zambia</title>
+                <title type="short">Zambia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>Records remain closed for 20 years after their creation.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>National Archives of Zambia, Government Road, Ridgeway, P. O. BOX 500 10, Lusaka.</p>
+                <p>Ministry of Foreign Affairs, PO Box 50069, Lusaka (Telephone: 262-666; Fax:
+                    250-634/240, 252-867) </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>Researchers must provide a letter of recommendation from a sponsoring university
+                    or institution. It is advisable to write the Archives ahead of time to find out
+                    about its holdings. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.zambiarchives.org/">National Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Norway</title>
+                <title type="short">Norway</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The Norwegian Freedom of Information Act governs the availability of documents at
+                    the National Archives. Foreign Ministry documents under 60 years old may remain
+                    restricted if the government believes they could compromise national security.
+                    Generally, however, restricted documents are automatically declassified after 30
+                    years unless the creating agency actively keeps it classified. Researchers have
+                    the right to request access to confidential files.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> The National Archives of Norway Folke Bernadottes vei 21 Postboks 4013 Ullevål
+                    stadion N-0806 Oslo </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> Researchers may appear at the archives in person, but it is recommended that
+                    they write the archive ahead of time, outlining their proposed research.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.riksarkivet.no/english/">National Archives</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

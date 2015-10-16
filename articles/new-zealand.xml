@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: New Zealand</title>
+                <title type="short">New Zealand</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The Public Records Act of 2005 stipulates that all documents at 25 years must be
+                    classified as either open access or restricted access. Additionally, the
+                    Ministry of Foreign Affairs and Trade offers a limited number of grants for
+                    historical research. Preference will be given to research on the development of
+                    New Zealand’s foreign relations in the period from the Second World War onwards,
+                    and to work which draws on the Ministry’s archival records. </p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p> National Archives, Head Office, Wellington, 10 Mulgrave Street, Thorndon,
+                    Wellington, New Zealand.</p>
+                <p> Mailing Address: PO Box 12-050, Wellington, New Zealand. </p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p> The holdings of the National Archives are spread out over New Zealand, though
+                    most are housed at the Head Office in Wellington. As such, it is a good idea to
+                    contact the Archives before visiting. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.archives.govt.nz/index.php">National Archives</ref>
+                </p>
+                <p>
+                    <ref target="http://www.mfat.govt.nz/index.php">Ministry of Foreign Affairs</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

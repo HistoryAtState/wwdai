@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Ecuador</title>
+                <title type="short">Ecuador</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The Foreign Ministry of Ecuador is developing a system for declassification and
+                    organization of its archives. Unclassified documents are available to the public
+                    at the archives at the Foreign Ministry. Currently, classified historical
+                    documents will be available after a period of 40 years. (The Foreign Ministry
+                    was created in 1980). There is an appeal process, though requests are rare.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>The Foreign Ministry is located at Av. 10 de Agosto in Quito.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head> Procedures</head>
+                <p>Researchers should write directly to the Director of the Historical Archives,
+                    specifying the subject and period of research, supported by an institutional
+                    letter. </p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.mmrree.gov.ec/ministerio/archivo.asp">Foreign Ministry</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

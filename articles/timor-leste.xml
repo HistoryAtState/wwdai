@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Timor</title>
+                <title type="short">Timor</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p>The National Archives of Indonesia and Australia are helping the government of
+                    Timor-Leste establish its own national archives.</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>Documents from prior to the independence of Timor-Leste may be found in the
+                    Indonesian Archives or the Portuguese National Archives. Additionally, the
+                    British Library in London is backing up the materials used in the report of the
+                    Commission for Reception, Truth and Reconciliation (CAVR). </p>
+            </div>
+        </body>
+    </text>
+</TEI>

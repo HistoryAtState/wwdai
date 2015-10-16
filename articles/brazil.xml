@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">World Wide Diplomatic Archives Index: Brazil</title>
+                <title type="short">Brazil</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Department of State, 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="Legislation">
+                <head>Legislation</head>
+                <p> Many diplomatic records created prior to 1959 are available at the National
+                    Archives. More recent records are retained in the Historic Archives at the
+                    Ministry of Foreign Affairs and are available for research on a case by case
+                    basis. Also, the Contemporary Brazilian History Research and Documentation
+                    Center holds the personal archives of many former Brazilian foreign ministers
+                    and presidents.</p>
+            </div>
+            <div type="section" xml:id="Location">
+                <head>Location</head>
+                <p>National Archives: Praça da República, 173, Rio de Janeiro, RJ - 20211-350.</p>
+                <p>Ministry of Foreign Affairs: Palácio Itamaraty - Esplanada dos Ministérios -
+                    Bloco H Brasília</p>
+            </div>
+            <div type="section" xml:id="Procedures">
+                <head>Procedures</head>
+                <p>Depending on the time period, researchers should contact the National Archives or
+                    the Ministry of Foreign Affairs to inquire about access to diplomatic
+                records.</p>
+            </div>
+            <div type="section" xml:id="Website">
+                <head>Website</head>
+                <p>
+                    <ref target="http://www.arquivonacional.gov.br/cgi/cgilua.exe/sys/start.htm">National Archives</ref>
+                </p>
+                <p>
+                    <ref target="http://www.mre.gov.br/">Ministry of Foreign Affairs</ref>
+                </p>
+                <p><ref target="http://cpdoc.fgv.br/en/about">Contemporary Brazilian History
+                    Research and Documentation Center</ref> (Centro de Pesquisa e Documentação da
+                    História Contemporânea do Brasil of the Fundação Getúlio Vargas, CPDOC/FGV)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

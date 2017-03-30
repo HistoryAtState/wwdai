@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -26,16 +26,14 @@
             </div>
             <div type="section" xml:id="Location">
                 <head>Location</head>
-                <p>Foreign affairs documents created between 1918-1944:<lb/> 
-                    National Archives of Hungary - Department II.<lb/> 
-                    Department of Records of Government Organs of the Period 1867-1945<lb/> 
-                    1014 Budapest, Bécsi kapu tér 2-4<lb/> 
-                    Postal Address: 1250 Budapest POB. 3</p>
-                <p>Foreign affairs documents created after 1944:<lb/> 
-                    The National Archives of Hungary - Department V.<lb/> 
-                    Department of Records of the Post-1945 Political Government Agencies<lb/> 
-                    1014 Budapest, Hess András tér 5.<lb/> 
-                    Postal Address: 1250 Budapest POB. 3</p>
+                <p>Foreign affairs documents created between 1918-1944:<lb/> National Archives of
+                    Hungary - Department II.<lb/> Department of Records of Government Organs of the
+                    Period 1867-1945<lb/> 1014 Budapest, Bécsi kapu tér 2-4<lb/> Postal Address:
+                    1250 Budapest POB. 3</p>
+                <p>Foreign affairs documents created after 1944:<lb/> The National Archives of
+                    Hungary - Department V.<lb/> Department of Records of the Post-1945 Political
+                    Government Agencies<lb/> 1014 Budapest, Hess András tér 5.<lb/> Postal Address:
+                    1250 Budapest POB. 3</p>
             </div>
             <div type="section" xml:id="Procedures">
                 <head> Procedures</head>

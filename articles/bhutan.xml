@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -23,7 +23,8 @@
             <div type="section" xml:id="Location">
                 <head>Location</head>
                 <p>Ministry of Foreign Affairs: PO Box 103, Gyalyong Tshokhang, Thimphu, Bhutan</p>
-                <p>National Library and Archives of Bhutan: GPO PO Box 185, Kawangjangtsa, Thimphu, Bhutan.</p>
+                <p>National Library and Archives of Bhutan: GPO PO Box 185, Kawangjangtsa, Thimphu,
+                    Bhutan.</p>
             </div>
             <div type="section" xml:id="Procedures">
                 <head> Procedures</head>

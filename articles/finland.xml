@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -30,12 +30,13 @@
             <div type="section" xml:id="Procedures">
                 <head> Procedures</head>
                 <p> Researchers may either appear in person or write to the Archives ahead of
-                time.</p>
+                    time.</p>
             </div>
             <div type="section" xml:id="Website">
                 <head>Website</head>
                 <p>
-                    <ref target="http://213.214.146.178/public/">The Ministry of Foreign Affairs</ref>
+                    <ref target="http://213.214.146.178/public/">The Ministry of Foreign
+                        Affairs</ref>
                 </p>
                 <p>
                     <ref target="http://www.arkisto.fi/">The National Archives</ref>

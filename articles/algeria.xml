@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -38,8 +38,8 @@
                     <ref target="http://www.mae.dz/ma_fr/">Ministry of Foreign Affairs</ref>
                 </p>
                 <p>
-                    <ref target="http://www.archives-dgan.gov.dz/">National Archives</ref> ("Under Contruction")
-                </p>
+                    <ref target="http://www.archives-dgan.gov.dz/">National Archives</ref> ("Under
+                    Contruction") </p>
             </div>
         </body>
     </text>

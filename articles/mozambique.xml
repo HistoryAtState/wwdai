@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -24,7 +24,7 @@
             <div type="section" xml:id="Location">
                 <head>Location</head>
                 <p>Historical Archives: Avenida Filipe Samuel Magaia No. 715, R/C C.P. 2033,
-                Maputo.</p>
+                    Maputo.</p>
             </div>
             <div type="section" xml:id="Procedures">
                 <head> Procedures</head>

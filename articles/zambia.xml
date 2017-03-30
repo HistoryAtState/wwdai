@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -22,7 +22,8 @@
             </div>
             <div type="section" xml:id="Location">
                 <head>Location</head>
-                <p>National Archives of Zambia, Government Road, Ridgeway, P. O. BOX 500 10, Lusaka.</p>
+                <p>National Archives of Zambia, Government Road, Ridgeway, P. O. BOX 500 10,
+                    Lusaka.</p>
                 <p>Ministry of Foreign Affairs, PO Box 50069, Lusaka (Telephone: 262-666; Fax:
                     250-634/240, 252-867) </p>
             </div>

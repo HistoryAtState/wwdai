@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -27,7 +27,8 @@
             </div>
             <div type="section" xml:id="Location">
                 <head>Location</head>
-                <p> Ministry of Foreign Affairs, “Palazzo Parisio” Merchants Street, Valletta CMR02</p>
+                <p> Ministry of Foreign Affairs, “Palazzo Parisio” Merchants Street, Valletta
+                    CMR02</p>
                 <p> The National Archives of Malta Santo Spirito Hospital Street Rabat, Malta RBT 12
                 </p>
             </div>
@@ -40,7 +41,8 @@
             <div type="section" xml:id="Website">
                 <head>Website</head>
                 <p>
-                    <ref target="http://www.libraries.gov.mt/splash_page/index.htm">National Archives</ref>
+                    <ref target="http://www.libraries.gov.mt/splash_page/index.htm">National
+                        Archives</ref>
                 </p>
             </div>
         </body>

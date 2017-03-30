@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -34,7 +34,8 @@
             <div type="section" xml:id="Website">
                 <head>Website</head>
                 <p>
-                    <ref target="http://www.archives.is/index.php?node=english">National Archives</ref>
+                    <ref target="http://www.archives.is/index.php?node=english">National
+                        Archives</ref>
                 </p>
             </div>
         </body>

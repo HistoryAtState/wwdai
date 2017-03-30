@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -41,10 +41,12 @@
             <div type="section" xml:id="Website">
                 <head>Website</head>
                 <p>
-                    <ref target="http://www.eda.admin.ch/eda/en/home.html">Department of Foreign Affairs</ref>
+                    <ref target="http://www.eda.admin.ch/eda/en/home.html">Department of Foreign
+                        Affairs</ref>
                 </p>
                 <p>
-                    <ref target="http://www.bar.admin.ch/org/index.html?lang=de">Federal Archives</ref>
+                    <ref target="http://www.bar.admin.ch/org/index.html?lang=de">Federal
+                        Archives</ref>
                 </p>
             </div>
         </body>

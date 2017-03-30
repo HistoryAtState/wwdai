@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -35,7 +35,9 @@
             <div type="section" xml:id="Website">
                 <head>Website</head>
                 <p>
-                    <ref target="http://www.albarchive.gov.al/cms/front_content.php?idart=97&amp;idcat=76">State Archive</ref>
+                    <ref
+                        target="http://www.albarchive.gov.al/cms/front_content.php?idart=97&amp;idcat=76"
+                        >State Archive</ref>
                 </p>
                 <p>
                     <ref target="http://www.mfa.gov.al/">Ministry of Foreign Affairs</ref>

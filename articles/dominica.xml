@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -23,9 +23,9 @@
             <div type="section" xml:id="Location">
                 <head>Location</head>
                 <p>National Documentation Centre Library and Information Services of Dominica:
-                Kennedy Avenue, ROSEAU. </p>
-                <p>Ministry of Foreign Affairs: Government Headquarters,
-                    Kennedy Avenue, Roseau. </p>
+                    Kennedy Avenue, ROSEAU. </p>
+                <p>Ministry of Foreign Affairs: Government Headquarters, Kennedy Avenue, Roseau.
+                </p>
             </div>
             <div type="section" xml:id="Procedures">
                 <head>Procedures</head>
@@ -37,10 +37,12 @@
             <div type="section" xml:id="Website">
                 <head>Website</head>
                 <p>
-                    <ref target="http://www.dominica.gov.dm/cms/index.php?q=node/1128">The Government of Dominica</ref>
+                    <ref target="http://www.dominica.gov.dm/cms/index.php?q=node/1128">The
+                        Government of Dominica</ref>
                 </p>
                 <p>
-                    <ref target="http://www.dlis.gov.dm/opac-tmpl/prog/newweb/index.html">National Library and Information Service</ref>
+                    <ref target="http://www.dlis.gov.dm/opac-tmpl/prog/newweb/index.html">National
+                        Library and Information Service</ref>
                 </p>
             </div>
         </body>

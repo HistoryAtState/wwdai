@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -32,7 +32,7 @@
             <div type="section" xml:id="Website">
                 <head>Website</head>
                 <p>
-                    <ref target="http://www.alassad-library.gov.sy/">The National Library  .</ref>
+                    <ref target="http://www.alassad-library.gov.sy/">The National Library .</ref>
                 </p>
             </div>
         </body>

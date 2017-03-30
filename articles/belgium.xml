@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -25,8 +25,8 @@
             <div type="section" xml:id="Location">
                 <head>Location</head>
                 <p>Federal Public Service Foreign Affairs, Foreign Trade and Development
-                    Cooperation, Archives Directorate, Diplomatic and African archives Rue de
-                    Petits Carmes, 15, B-1000 Brussels</p>
+                    Cooperation, Archives Directorate, Diplomatic and African archives Rue de Petits
+                    Carmes, 15, B-1000 Brussels</p>
             </div>
             <div type="section" xml:id="Procedures">
                 <head>Procedures</head>
@@ -36,7 +36,8 @@
             <div type="section" xml:id="Website">
                 <head>Website</head>
                 <p>
-                    <ref target="http://diplomatie.belgium.be/en/documentation/">Information on Diplomatic Archives</ref>
+                    <ref target="http://diplomatie.belgium.be/en/documentation/">Information on
+                        Diplomatic Archives</ref>
                 </p>
             </div>
             <div type="section" xml:id="Publications">

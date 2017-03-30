@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">World Wide Diplomatic Archives Index: Dominican Republic</title>
+                <title type="complete">World Wide Diplomatic Archives Index: Dominican
+                    Republic</title>
                 <title type="short">Dominican Republic</title>
             </titleStmt>
             <publicationStmt>
@@ -23,8 +24,8 @@
             <div type="section" xml:id="Location">
                 <head>Location</head>
                 <p>National Archives: C/Modesto Diaz No. 2, Santo Domingo, Dominican Republic, 2870. </p>
-                <p>Ministry of Foreign Affairs: Av. Indepencia No. 752, Estancia San Gerónimo,
-                    Santo Domingo. </p>
+                <p>Ministry of Foreign Affairs: Av. Indepencia No. 752, Estancia San Gerónimo, Santo
+                    Domingo. </p>
             </div>
             <div type="section" xml:id="Procedures">
                 <head>Procedures</head>

@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">World Wide Diplomatic Archives Index: The Republic of Korea (South Korea)</title>
+                <title type="complete">World Wide Diplomatic Archives Index: The Republic of Korea
+                    (South Korea)</title>
                 <title type="short">The Republic of Korea (South Korea)</title>
             </titleStmt>
             <publicationStmt>
@@ -40,7 +41,8 @@
                     <ref target="http://archives.go.kr/">National Archives</ref>
                 </p>
                 <p>
-                    <ref target="http://www.mofat.go.kr/english/main/index.jsp?lang=eng">Diplomatic Archives</ref>
+                    <ref target="http://www.mofat.go.kr/english/main/index.jsp?lang=eng">Diplomatic
+                        Archives</ref>
                 </p>
             </div>
         </body>

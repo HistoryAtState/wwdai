@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -28,13 +28,14 @@
             </div>
             <div type="section" xml:id="Procedures">
                 <head>Procedures</head>
-                <p>Researchers should contact the State Archives to inquire about access to
-                    relevant diplomatic records. </p>
+                <p>Researchers should contact the State Archives to inquire about access to relevant
+                    diplomatic records. </p>
             </div>
             <div type="section" xml:id="Website">
                 <head>Website</head>
                 <p>
-                    <ref target="http://www.mfa.gov.mk/default.aspx?ItemID=282">Ministry of Foreign Affairs</ref>
+                    <ref target="http://www.mfa.gov.mk/default.aspx?ItemID=282">Ministry of Foreign
+                        Affairs</ref>
                 </p>
             </div>
         </body>

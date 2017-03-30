@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">World Wide Diplomatic Archives Index: Trinidad and Tobago</title>
+                <title type="complete">World Wide Diplomatic Archives Index: Trinidad and
+                    Tobago</title>
                 <title type="short">Trinidad and Tobago</title>
             </titleStmt>
             <publicationStmt>
@@ -33,7 +34,7 @@
                 <head> Procedures</head>
                 <p> Researchers should write to the FOI Unit of the Ministry of Public
                     Administration and Information to request access to Foreign Ministry
-                documents.</p>
+                    documents.</p>
             </div>
             <div type="section" xml:id="Website">
                 <head>Website</head>
@@ -41,7 +42,9 @@
                     <ref target="http://www.foreign.gov.tt/">Ministry of Foreign Affairs</ref>
                 </p>
                 <p>
-                    <ref target="http://www.nalis.gov.tt/AdministrationGov/Min_PublicAdminandInformation.htm">Ministry of Public Administration and Information</ref>
+                    <ref
+                        target="http://www.nalis.gov.tt/AdministrationGov/Min_PublicAdminandInformation.htm"
+                        >Ministry of Public Administration and Information</ref>
                 </p>
                 <p>
                     <ref target="http://natt.gov.tt/">National Archives</ref>

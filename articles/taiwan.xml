@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -47,13 +47,15 @@
                     <ref target="http://www.archives.gov.tw/english/">National Archives</ref>
                 </p>
                 <p>
-                    <ref target="http://www.drnh.gov.tw/www/index.aspx">Academia Historica</ref> (Chinese site)
-                </p>
+                    <ref target="http://www.drnh.gov.tw/www/index.aspx">Academia Historica</ref>
+                    (Chinese site) </p>
             </div>
             <div type="section" xml:id="Publications">
                 <head>Published Documents</head>
                 <p>Both of these archives have published numerous volumes of foreign relations
-                    documents. For their catalogs, see <ref target="http://www.archives.gov.tw/english/Book/Public.aspx?cnid=398"/> and <ref target="http://book.drnh.gov.tw/"/>.</p>
+                    documents. For their catalogs, see <ref
+                        target="http://www.archives.gov.tw/english/Book/Public.aspx?cnid=398"/> and
+                        <ref target="http://book.drnh.gov.tw/"/>.</p>
             </div>
         </body>
     </text>

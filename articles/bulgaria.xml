@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -28,18 +28,19 @@
             <div type="section" xml:id="Location">
                 <head>Location</head>
                 <p>Central State Archives: Sofia 1000, 5 Moskovska Str.</p>
-                <p>Diplomatic Archives at the Ministry of Foreign Affairs: Sofia 1040, 2 Alexander Zhendov Str.
-             </p>
+                <p>Diplomatic Archives at the Ministry of Foreign Affairs: Sofia 1040, 2 Alexander
+                    Zhendov Str. </p>
             </div>
             <div type="section" xml:id="Procedures">
                 <head>Procedures</head>
-                <p>Foreign researchers should contact the archive at least thirty days in advance
-                    of visit. </p>
+                <p>Foreign researchers should contact the archive at least thirty days in advance of
+                    visit. </p>
             </div>
             <div type="section" xml:id="Website">
                 <head>Website</head>
                 <p>
-                    <ref target="http://www.archives.government.bg/index.php?lang=en&amp;page=11">Central State Archives</ref>
+                    <ref target="http://www.archives.government.bg/index.php?lang=en&amp;page=11"
+                        >Central State Archives</ref>
                 </p>
                 <p>
                     <ref target="http://www.mfa.bg/en/">Ministry of Foreign Affairs</ref>

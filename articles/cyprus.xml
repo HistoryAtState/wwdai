@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -24,7 +24,8 @@
             <div type="section" xml:id="Location">
                 <head>Location</head>
                 <p>Ministry of Foreign Affairs: Presidential Palace Avenue, 1447, Nicosia.</p>
-                <p> State Archives of Cyprus: Ministry of Justice and Public Order, CY-1461 Nicosia.</p>
+                <p> State Archives of Cyprus: Ministry of Justice and Public Order, CY-1461
+                    Nicosia.</p>
                 <p> IBM Centrum Tower, 42-44 Grivas Digenis Avenue, Agioi Omologites </p>
             </div>
             <div type="section" xml:id="Procedures">
@@ -38,7 +39,9 @@
                     <ref target="http://www.mfa.gov.cy">Ministry of Foreign Affairs</ref>
                 </p>
                 <p>
-                    <ref target="http://www.mjpo.gov.cy/mjpo/mjpo.nsf/dmlmissionofstate_en/dmlmissionofstate_en?OpenDocument#">State Archives of Cyprus</ref>
+                    <ref
+                        target="http://www.mjpo.gov.cy/mjpo/mjpo.nsf/dmlmissionofstate_en/dmlmissionofstate_en?OpenDocument#"
+                        >State Archives of Cyprus</ref>
                 </p>
             </div>
         </body>

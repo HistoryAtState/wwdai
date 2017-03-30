@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -36,7 +36,8 @@
             <div type="section" xml:id="Website">
                 <head>Website</head>
                 <p>
-                    <ref target="http://stlucia.gov.lc/agencies/ministry_of_external_affairs.htm">Ministry of External Affairs</ref>
+                    <ref target="http://stlucia.gov.lc/agencies/ministry_of_external_affairs.htm"
+                        >Ministry of External Affairs</ref>
                 </p>
             </div>
         </body>

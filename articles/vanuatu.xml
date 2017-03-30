@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,9 +19,9 @@
             <div type="section" xml:id="Legislation">
                 <head>Legislation</head>
                 <p>The Archives Law (see <ref
-                    target="http://www.ndl.go.jp/en/cdnlao/meetings/pdf/CR2008-Vanuatu.pdf"
-                    >Legislation and proceedures governing declassification of diplomatic
-                    archives</ref>, PDF) stipulates that all public archives of the age of
+                        target="http://www.ndl.go.jp/en/cdnlao/meetings/pdf/CR2008-Vanuatu.pdf"
+                        >Legislation and proceedures governing declassification of diplomatic
+                        archives</ref>, PDF) stipulates that all public archives of the age of
                     fifteen years or overall archives deposited in the National Archives and that,
                     subject certain stipulations, all archives deposited in the National Archives
                     shall be available for public reference.</p>

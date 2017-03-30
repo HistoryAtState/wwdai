@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -39,14 +39,15 @@
                     <ref target="http://www.arhiv.hr/en/">Croatian State Archives</ref>
                 </p>
                 <p>
-                    <ref target="http://www.mfa.hr/MVP.asp?pcpid=1612">Ministry of Foreign Affairs</ref>
+                    <ref target="http://www.mfa.hr/MVP.asp?pcpid=1612">Ministry of Foreign
+                        Affairs</ref>
                 </p>
             </div>
             <div type="section" xml:id="Publications">
                 <head>Published Documents</head>
                 <p>While there is no systematic publication of Foreign Ministry records, the
                     Croatian State Archives occasionally publishes thematic volumes of
-                documents.</p>
+                    documents.</p>
             </div>
         </body>
     </text>

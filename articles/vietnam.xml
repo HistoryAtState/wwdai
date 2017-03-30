@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -23,9 +23,10 @@
             </div>
             <div type="section" xml:id="Location">
                 <head>Location</head>
-                <p>Office of Vietnamese Ministry of Foreign Affairs: No. 1 Ton That Dam, Ba Dinh,
-                    Ha Noi.</p>
-                <p>National Archives Center I: 18 Vu Phan Ham, Phuong Yen Hoa, Cau Giay, Ha Noi. (Colonial Records)</p>
+                <p>Office of Vietnamese Ministry of Foreign Affairs: No. 1 Ton That Dam, Ba Dinh, Ha
+                    Noi.</p>
+                <p>National Archives Center I: 18 Vu Phan Ham, Phuong Yen Hoa, Cau Giay, Ha Noi.
+                    (Colonial Records)</p>
                 <p>National Archives II: 2 Le Duan, District 1, Ho Chi Minh City. (Republic of
                     Vietnam Records)</p>
                 <p>National Archives III: 34 Phan Ke Binh, Ba Dinh District, Ha Noi. (Post-1945
@@ -33,11 +34,11 @@
             </div>
             <div type="section" xml:id="Procedures">
                 <head> Procedures</head>
-                <p>Older records are divided between several National Archives sites in Hanoi and
-                    Ho Chi Minh City. For more recent records, contact the Ministry of Foreign
-                    Affairs. Researchers must acquire a reader’s card upon visiting the archives,
-                    which for foreigners will require photocopies of passport, visa and a letter
-                    from a sponsoring institution.</p>
+                <p>Older records are divided between several National Archives sites in Hanoi and Ho
+                    Chi Minh City. For more recent records, contact the Ministry of Foreign Affairs.
+                    Researchers must acquire a reader’s card upon visiting the archives, which for
+                    foreigners will require photocopies of passport, visa and a letter from a
+                    sponsoring institution.</p>
             </div>
             <div type="section" xml:id="Website">
                 <head>Website</head>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -29,7 +29,8 @@
             <div type="section" xml:id="Website">
                 <head>Website</head>
                 <p>
-                    <ref target="http://www.mfa.gov.ge/index.php?lang_id=ENG&amp;sec_id=1">Ministry of Foreign Affairs</ref>
+                    <ref target="http://www.mfa.gov.ge/index.php?lang_id=ENG&amp;sec_id=1">Ministry
+                        of Foreign Affairs</ref>
                 </p>
             </div>
         </body>

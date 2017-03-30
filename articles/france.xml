@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13,7 +14,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change when="2011-03-28">Incorporated Paul Pitman's changes from French archivist</change>
+            <change when="2011-03-28">Incorporated Paul Pitman's changes from French
+                archivist</change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -22,9 +24,9 @@
                 <head>Legislation</head>
                 <p>Researchers may consult most public documents in the archives of the Ministry of
                     Foreign and European Affairs after a period of 25 years under the provisions of
-                    the archives law of July 15, 2008 (law no. 2008-696).  However, certain
+                    the archives law of July 15, 2008 (law no. 2008-696). However, certain
                     categories of documents remain closed for a longer period, and others cannot be
-                    consulted at all.  Under certain conditions, a researcher may request and receive
+                    consulted at all. Under certain conditions, a researcher may request and receive
                     authorization to consult documents that still remain closed.</p>
             </div>
             <div type="section" xml:id="Location">

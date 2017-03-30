@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -38,7 +38,8 @@
             <div type="section" xml:id="Website">
                 <head>Website</head>
                 <p>
-                    <ref target="http://idi.mne.pt/pt/arquivobiblioteca.html">Arquivo Histórico – Diplomático</ref>
+                    <ref target="http://idi.mne.pt/pt/arquivobiblioteca.html">Arquivo Histórico –
+                        Diplomático</ref>
                 </p>
             </div>
         </body>

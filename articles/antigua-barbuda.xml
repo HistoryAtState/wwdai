@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">World Wide Diplomatic Archives Index: Antigua and Barbuda</title>
+                <title type="complete">World Wide Diplomatic Archives Index: Antigua and
+                    Barbuda</title>
                 <title type="short">Antigua and Barbuda</title>
             </titleStmt>
             <publicationStmt>
@@ -34,7 +35,8 @@
             <div type="section" xml:id="Website">
                 <head>Website</head>
                 <p>
-                    <ref target="http://www.foreignaffairs.gov.ag/">Ministry of Foreign Affairs</ref>
+                    <ref target="http://www.foreignaffairs.gov.ag/">Ministry of Foreign
+                        Affairs</ref>
                 </p>
             </div>
         </body>

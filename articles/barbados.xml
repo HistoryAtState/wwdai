@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -37,7 +37,8 @@
                     <ref target="http://www.foreign.gov.bb/">Ministry of Foreign Affairs</ref>
                 </p>
                 <p>
-                    <ref target="http://www.gov.bb/portal/page/portal/BIG_Department_of_Archives">Department of the Archives</ref>
+                    <ref target="http://www.gov.bb/portal/page/portal/BIG_Department_of_Archives"
+                        >Department of the Archives</ref>
                 </p>
             </div>
         </body>

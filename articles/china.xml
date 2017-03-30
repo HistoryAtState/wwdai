@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -25,8 +25,10 @@
             </div>
             <div type="section" xml:id="Location">
                 <head>Location</head>
-                <p>Post-1949: Foreign Ministry Archives, No. 2, Chaoyangmen Nandajie, Chaoyang District, Beijing, 100701</p>
-                <p>1912-1949: Second Historical Archives, 309 East Zhongshan Road, Nanjing, 210016</p>
+                <p>Post-1949: Foreign Ministry Archives, No. 2, Chaoyangmen Nandajie, Chaoyang
+                    District, Beijing, 100701</p>
+                <p>1912-1949: Second Historical Archives, 309 East Zhongshan Road, Nanjing,
+                    210016</p>
                 <p>Pre-1912: First Historical Archives, National Palace Museum, Xihuamennei,
                     Beijing, 100031 </p>
             </div>
@@ -45,14 +47,14 @@
             <div type="section" xml:id="Website">
                 <head>Website</head>
                 <p>
-                    <ref target="http://dag.fmprc.gov.cn/chn/">Foreign Ministry Archives</ref> (Chinese language)
-                </p>
+                    <ref target="http://dag.fmprc.gov.cn/chn/">Foreign Ministry Archives</ref>
+                    (Chinese language) </p>
                 <p>
                     <ref target="http://www.shac.net.cn/english/">Second Historical Archives</ref>
                 </p>
                 <p>
-                    <ref target="http://www.lsdag.com/">First Historical Archives</ref> (Chinese language)
-                </p>
+                    <ref target="http://www.lsdag.com/">First Historical Archives</ref> (Chinese
+                    language) </p>
             </div>
             <div type="section" xml:id="Publications">
                 <head>Published Documents</head>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -40,7 +40,8 @@
                     <ref target="http://www.anbenin.bj/">National Archives</ref>
                 </p>
                 <p>
-                    <ref target="http://www.gouv.bj/spip.php?rubrique137/">Ministry of Foreign Affairs</ref>
+                    <ref target="http://www.gouv.bj/spip.php?rubrique137/">Ministry of Foreign
+                        Affairs</ref>
                 </p>
             </div>
         </body>

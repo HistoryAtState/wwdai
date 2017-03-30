@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -37,7 +37,9 @@
             <div type="section" xml:id="Website">
                 <head>Website</head>
                 <p>
-                    <ref target="http://www.archyvai.lt/archyvai/changeSite.do?siteId=&amp;pathId=68">Lithuanian Archives Department</ref>
+                    <ref
+                        target="http://www.archyvai.lt/archyvai/changeSite.do?siteId=&amp;pathId=68"
+                        >Lithuanian Archives Department</ref>
                 </p>
             </div>
         </body>

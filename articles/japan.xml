@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -44,12 +44,14 @@
                     <ref target="http://www.archives.go.jp/">National Archives of Japan</ref>
                 </p>
                 <p>
-                    <ref target="http://www.mofa.go.jp/about/hq/record/">Ministry of Foreign Affairs Diplomatic Record Office</ref>
+                    <ref target="http://www.mofa.go.jp/about/hq/record/">Ministry of Foreign Affairs
+                        Diplomatic Record Office</ref>
                 </p>
             </div>
             <div type="section" xml:id="Publications">
                 <head>Published Documents</head>
-                <p>The Ministry of Foreign Affairs publishes the series, <hi rend="italic">Nihongaikobunsho</hi> (Documents on Japanese Foreign Policy), and is
+                <p>The Ministry of Foreign Affairs publishes the series, <hi rend="italic"
+                        >Nihongaikobunsho</hi> (Documents on Japanese Foreign Policy), and is
                     currently at work on the post-Second World War period. </p>
             </div>
         </body>

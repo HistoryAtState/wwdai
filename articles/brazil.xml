@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -34,19 +35,21 @@
                 <head>Procedures</head>
                 <p>Depending on the time period, researchers should contact the National Archives or
                     the Ministry of Foreign Affairs to inquire about access to diplomatic
-                records.</p>
+                    records.</p>
             </div>
             <div type="section" xml:id="Website">
                 <head>Website</head>
                 <p>
-                    <ref target="http://www.arquivonacional.gov.br/cgi/cgilua.exe/sys/start.htm">National Archives</ref>
+                    <ref target="http://www.arquivonacional.gov.br/cgi/cgilua.exe/sys/start.htm"
+                        >National Archives</ref>
                 </p>
                 <p>
                     <ref target="http://www.mre.gov.br/">Ministry of Foreign Affairs</ref>
                 </p>
                 <p><ref target="http://cpdoc.fgv.br/en/about">Contemporary Brazilian History
-                    Research and Documentation Center</ref> (Centro de Pesquisa e Documentação da
-                    História Contemporânea do Brasil of the Fundação Getúlio Vargas, CPDOC/FGV)</p>
+                        Research and Documentation Center</ref> (Centro de Pesquisa e Documentação
+                    da História Contemporânea do Brasil of the Fundação Getúlio Vargas,
+                    CPDOC/FGV)</p>
             </div>
         </body>
     </text>

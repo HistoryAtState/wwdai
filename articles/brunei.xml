@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">World Wide Diplomatic Archives Index: Brunei Darussalam</title>
+                <title type="complete">World Wide Diplomatic Archives Index: Brunei
+                    Darussalam</title>
                 <title type="short">Brunei Darussalam</title>
             </titleStmt>
             <publicationStmt>
@@ -18,8 +19,8 @@
         <body>
             <div type="section" xml:id="Legislation">
                 <head>Legislation</head>
-                <p>Access to public records is governed by the National Archives Act of
-                    1975, revised in 1983.</p>
+                <p>Access to public records is governed by the National Archives Act of 1975,
+                    revised in 1983.</p>
             </div>
             <div type="section" xml:id="Location">
                 <head>Location</head>

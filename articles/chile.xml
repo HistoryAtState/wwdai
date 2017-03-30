@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -21,9 +21,10 @@
                 <p>Access to diplomatic archives is governed by the Administrative Directive for
                     Documentation of 1983. Unclassified documents are available for public
                     consultation 20 years after origination. Classified documents (Confidential and
-                    Secret) are declassified 30 years after origination. Documents that are considered
-                    of permanent interest of the Foreign Ministry are retained and not declassified.
-                    Chile passed a freedom of information law in the summer of 2008.</p>
+                    Secret) are declassified 30 years after origination. Documents that are
+                    considered of permanent interest of the Foreign Ministry are retained and not
+                    declassified. Chile passed a freedom of information law in the summer of
+                    2008.</p>
             </div>
             <div type="section" xml:id="Location">
                 <head>Location</head>
@@ -47,7 +48,9 @@
             <div type="section" xml:id="Website">
                 <head>Website</head>
                 <p>
-                    <ref target="http://www.minrel.gov.cl/prontus_minrel/site/edic/base/port/home.php">Archive of the Ministry of Foreign Affairs</ref>
+                    <ref
+                        target="http://www.minrel.gov.cl/prontus_minrel/site/edic/base/port/home.php"
+                        >Archive of the Ministry of Foreign Affairs</ref>
                 </p>
             </div>
         </body>

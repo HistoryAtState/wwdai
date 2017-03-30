@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -22,7 +22,8 @@
             </div>
             <div type="section" xml:id="Location">
                 <head>Location</head>
-                <p>Ministry of Foreign Affairs and International Cooperation, P/Bag 00368, Gaborone.</p>
+                <p>Ministry of Foreign Affairs and International Cooperation, P/Bag 00368,
+                    Gaborone.</p>
                 <p>National Archives: Khama Crescent, Government Enclave, P.O Box 239, Gaborone.
                 </p>
             </div>
@@ -37,10 +38,14 @@
                     <ref target="http://www.gov.bw">Government of Botswana</ref>
                 </p>
                 <p>
-                    <ref target="http://www.gov.bw/en/Ministries--Authorities/Ministries/Ministry-of-Youth-Sport-and-Culture-MYSC/National-Archives-and-Records-Services-NARS/Requisition-Application-Form/">National Archives</ref>
+                    <ref
+                        target="http://www.gov.bw/en/Ministries--Authorities/Ministries/Ministry-of-Youth-Sport-and-Culture-MYSC/National-Archives-and-Records-Services-NARS/Requisition-Application-Form/"
+                        >National Archives</ref>
                 </p>
                 <p>
-                    <ref target="http://www.gov.bw/en/Ministries--Authorities/Ministries/Ministry-of-Foreign-Affairs-and-International-Cooperation/">Ministry of Foreign Affairs and International Cooperation</ref>
+                    <ref
+                        target="http://www.gov.bw/en/Ministries--Authorities/Ministries/Ministry-of-Foreign-Affairs-and-International-Cooperation/"
+                        >Ministry of Foreign Affairs and International Cooperation</ref>
                 </p>
             </div>
         </body>

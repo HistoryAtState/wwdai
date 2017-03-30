@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -30,10 +30,10 @@
             </div>
             <div type="section" xml:id="Procedures">
                 <head> Procedures</head>
-                <p>Members of the public may directly visit the National Archives Reception Desk
-                    and fill out a request for documents. However, researchers are advised to
-                    contact the Archives first. For material not found at the Archives, researchers
-                    should write directly to the Ministry of Foreign Affairs. </p>
+                <p>Members of the public may directly visit the National Archives Reception Desk and
+                    fill out a request for documents. However, researchers are advised to contact
+                    the Archives first. For material not found at the Archives, researchers should
+                    write directly to the Ministry of Foreign Affairs. </p>
             </div>
             <div type="section" xml:id="Website">
                 <head>Website</head>

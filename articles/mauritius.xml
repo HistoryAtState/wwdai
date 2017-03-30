@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -35,7 +35,9 @@
             <div type="section" xml:id="Website">
                 <head>Website</head>
                 <p>
-                    <ref target="http://www.gov.mu/portal/site/mac/menuitem.adf2c4b1e2d8d5aea6597adaa0208a0c/">National Archives, Ministry of Arts and Culture</ref>
+                    <ref
+                        target="http://www.gov.mu/portal/site/mac/menuitem.adf2c4b1e2d8d5aea6597adaa0208a0c/"
+                        >National Archives, Ministry of Arts and Culture</ref>
                 </p>
             </div>
         </body>

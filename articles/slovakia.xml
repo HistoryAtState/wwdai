@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -30,7 +30,7 @@
             <div type="section" xml:id="Procedures">
                 <head> Procedures</head>
                 <p> Researchers must submit a written application to gain access to the
-                Archives.</p>
+                    Archives.</p>
             </div>
             <div type="section" xml:id="Website">
                 <head>Website</head>

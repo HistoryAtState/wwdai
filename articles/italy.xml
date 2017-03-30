@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -43,7 +43,9 @@
                     <ref target="http://www.esteri.it">Ministry of Foreign Affairs</ref>
                 </p>
                 <p>
-                    <ref target="http://www.esteri.it/MAE/IT/Ministero/Servizi/Italiani/Archivi_Biblioteca/Storico_Diplom/default.htm">Historical Diplomatic Office at the Ministry of Foreign Affairs</ref>
+                    <ref
+                        target="http://www.esteri.it/MAE/IT/Ministero/Servizi/Italiani/Archivi_Biblioteca/Storico_Diplom/default.htm"
+                        >Historical Diplomatic Office at the Ministry of Foreign Affairs</ref>
                 </p>
             </div>
             <div type="section" xml:id="Publications">

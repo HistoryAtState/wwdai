@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -18,8 +18,7 @@
         <body>
             <div type="section" xml:id="Legislation">
                 <head>Legislation</head>
-                <p>There is no systematic declassification of government documents in Sri
-                Lanka.</p>
+                <p>There is no systematic declassification of government documents in Sri Lanka.</p>
             </div>
             <div type="section" xml:id="Location">
                 <head>Location</head>

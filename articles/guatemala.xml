@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -26,7 +26,8 @@
                     <ref target="http://www.minex.gob.gt/">Ministry of Foreign Affairs</ref>
                 </p>
                 <p>
-                    <ref target="http://www.minex.gob.gt/Consulta_Archivos.aspx">Digital Archive</ref>
+                    <ref target="http://www.minex.gob.gt/Consulta_Archivos.aspx">Digital
+                        Archive</ref>
                 </p>
             </div>
         </body>

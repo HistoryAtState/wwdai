@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -39,7 +39,8 @@
             <div type="section" xml:id="Website">
                 <head>Website</head>
                 <p>
-                    <ref target="http://www.statensarkiv.se/default.aspx?id=2138">National Archives</ref>
+                    <ref target="http://www.statensarkiv.se/default.aspx?id=2138">National
+                        Archives</ref>
                 </p>
                 <p>
                     <ref target="http://sweden.gov.se/sb/d/2059">Ministry for Foreign Affairs</ref>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -37,7 +37,8 @@
                     <ref target="http://www.mrecic.gov.ar/">Ministry of Foreign Affairs</ref>
                 </p>
                 <p>
-                    <ref target="http://www.mininterior.gov.ar/archivo/archivo.php/">National Archives</ref>
+                    <ref target="http://www.mininterior.gov.ar/archivo/archivo.php/">National
+                        Archives</ref>
                 </p>
             </div>
         </body>

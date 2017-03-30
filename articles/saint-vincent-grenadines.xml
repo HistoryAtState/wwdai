@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">World Wide Diplomatic Archives Index: Saint Vincent and the Grenadines</title>
+                <title type="complete">World Wide Diplomatic Archives Index: Saint Vincent and the
+                    Grenadines</title>
                 <title type="short">Saint Vincent and the Grenadines</title>
             </titleStmt>
             <publicationStmt>
@@ -34,7 +35,8 @@
             <div type="section" xml:id="Website">
                 <head>Website</head>
                 <p>
-                    <ref target="http://www.gov.vc/">Government of Saint Vincent and the Grenadines</ref>
+                    <ref target="http://www.gov.vc/">Government of Saint Vincent and the
+                        Grenadines</ref>
                 </p>
             </div>
         </body>

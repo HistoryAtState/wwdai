@@ -4,7 +4,7 @@
         <name>wwdai</name>
         <url>http://history.state.gov/ns/data/wwdai</url>
         <title>World Wide Diplomatic Archives Index (data)</title>
-        <version>0.3</version>
+        <version>0.4</version>
     </app>
     <trigger>
         <provider-url>

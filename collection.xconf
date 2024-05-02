@@ -8,7 +8,7 @@
                 <facet dimension="hsg-category" expression="'countries'"/>
                 <facet dimension="hsg-publication" expression="'archives'"/>
                 <field name="hsg-fulltext" store="no"/>
-                <field name="hsg-url" expression="'/countries/archives' || util:document-name(.) =&gt; substring-before('.xml')"/>
+                <field name="hsg-url" expression="'/countries/archives/' || substring-before(util:document-name(.), '.xml')"/>
                 <!-- end required facets and fields -->
             </text>
         </lucene>

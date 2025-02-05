@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo" commit-id="7ea0bfd464053e493d6e330aa2c2f3c4ae285b43" commit-time="1700598826">
+    <description>World Wide Diplomatic Archives Index (data)</description>
+    <author>Office of the Historian</author>
+    <website>https://history.state.gov</website>
+    <status/>
+    <license/>
+    <copyright/>
+    <type>application</type>
+    <target>wwdai</target>
+    <prepare>pre-install.xql</prepare>
+    <finish/>
+    <permissions password="" user="hsg" group="hsg" mode="rw-rw-r--"/>
+</meta>

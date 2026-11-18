@@ -1,0 +1,19 @@
+.github/workflows/build.yml
+  s_3c40655bc1bdcd::t_f22f6007fd0edd 83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c73583392ab3b9aa91cdf2f7d1bffc08b1c44dc4",
+  "prompts": {},
+  "sessions": {
+    "s_3c40655bc1bdcd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_3c40655bc1bdcd",
+        "model": "unknown"
+      },
+      "human_author": "duncdrum <d.paterson@me.com>"
+    }
+  }
+}
